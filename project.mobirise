@@ -5098,7 +5098,7 @@
       "components": [
         {
           "_params": {
-            "HTMLCode": "Your HTML goes here. Please use the gear-icon to edit the HTML.",
+            "HTMLCode": "Hey! If you're reading this, you probably scrolled back up really fast.",
             "hideOnPublish": false,
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -5111,7 +5111,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "Your HTML goes here. Please use the gear-icon to edit the HTML.",
+          "HTMLCode": "Hey! If you're reading this, you probably scrolled back up really fast.",
           "alias": "witsec-custom-html",
           "_tags": [
             "Extension"
@@ -5212,11 +5212,11 @@
           "_name": "content9",
           "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"5\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"81\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"45\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#000000\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>\n                    PREVENTS USED CODES &amp; RESELLERS&nbsp;</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "rH1LjSenvk",
+          "_anchor": "content9-1y",
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {},
-          "_anchor": "content9-1y"
+          "_params": {}
         },
         {
           "alias": false,
