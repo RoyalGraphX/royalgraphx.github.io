@@ -30,10 +30,10 @@
         <itunes:subtitle>420 Powered Conversations.</itunes:subtitle>
         <lastBuildDate>Tue, 03 Dec 2019 00:00:00 EST</lastBuildDate>
         <item>
-            <title>Verbose title of the episode</title>
-            <description>Verbose description of the episode.</description>
-            <itunes:summary>Duplicate of above verbose description.</itunes:summary>
-            <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
+            <title>i love you (Studio Acapella)</title>
+            <description>Billie Eilish</description>
+            <itunes:summary>Billie Eilish</itunes:summary>
+            <itunes:subtitle>Billie Eilish</itunes:subtitle>
             <itunesu:category itunesu:code="112" />
             <enclosure url="https://mcdn.podbean.com/mf/web/kfks3m/_-P-bYYIFZ9H4.mp3" length="3338757" type="audio/mpeg"/>
         <itunes:author>RoyalGraphX</itunes:author>
