@@ -5,7 +5,7 @@
         <language>en-us</language>
         <copyright>&#xA9;2019</copyright>
         <webMaster>royalgraphx0@gmail.com (Alan)</webMaster>
-        <managingEditor>royalgraphx0@gmail.com (Your Name)</managingEditor>
+        <managingEditor>royalgraphx0@gmail.com (Alan)</managingEditor>
         <image>
             <url>https://royalgraphx0.github.io/podcast.jpg</url>
             <title>The Basement</title>
@@ -18,7 +18,7 @@
         <itunes:category text="Comedy">
             <itunes:category text="Interview" />
         </itunes:category>
-        <itunes:keywords>separate, by, comma, and, space</itunes:keywords>
+        <itunes:keywords></itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="https://royalgraphx0.github.io/podcast.jpg" />
         <atom:link href="https://royalgraphx0.github.io/feed.xml" rel="self" type="application/rss+xml" />
@@ -36,7 +36,6 @@
             <itunes:subtitle>Short description of the episode - 255 character max.</itunes:subtitle>
             <itunesu:category itunesu:code="112" />
             <enclosure url="https://mcdn.podbean.com/mf/web/kfks3m/_-P-bYYIFZ9H4.mp3" length="3338757" type="audio/mpeg"/>
-        </itunes:summary>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:block>No</itunes:block>
