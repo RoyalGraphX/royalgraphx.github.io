@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><!-- generator="podbean/5.5" -->
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:spotify="http://www.spotify.com/ns/rss"
+    xmlns:media="http://search.yahoo.com/mrss/">
+
+<channel>
+    <title>The Basement</title>
+    <atom:link href="https://feed.podbean.com/royalgraphx/feed.xml" rel="self" type="application/rss+xml"/>
+    <link>https://royalgraphx.podbean.com</link>
+    <description>Created by Alan &amp; Kevin. A simple 420 Podcast.</description>
+    <pubDate>Tue, 03 Dec 2019 23:48:42 -0400</pubDate>
+    <generator>https://podbean.com/?v=5.5</generator>
+    <language>en</language>
+        <copyright>Copyright 2019 All rights reserved.</copyright>
+    <category>Comedy</category>
+    <ttl>1440</ttl>
+    <itunes:type>episodic</itunes:type>
+    <itunes:subtitle>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:subtitle>
+    <itunes:summary>Created by Alan &amp; Kevin. A simple 420 Podcast.</itunes:summary>
+    <itunes:author>RoyalGraphX</itunes:author>
+<itunes:category text="Comedy"/>
+	<itunes:category text="Comedy">
+		<itunes:category text="Comedy Interviews"/>
+	</itunes:category>
+	<itunes:category text="Comedy">
+		<itunes:category text="Improv"/>
+	</itunes:category>
+    <itunes:owner>
+        <itunes:name>RoyalGraphX</itunes:name>
+        <itunes:email>minecraftia2013@gmail.com</itunes:email>
+    </itunes:owner>
+	<itunes:block>No</itunes:block>
+	<itunes:explicit>yes</itunes:explicit>
+    <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/Untitled-1.jpg" />
+    <image>
+        <url>https://pbcdn1.podbean.com/imglogo/image-logo/6738017/Untitled-1.jpg</url>
+        <title>The Basement</title>
+        <link>https://royalgraphx.podbean.com</link>
+        <width>144</width>
+        <height>144</height>
+    </image>
+    <item>
+        <title>Billie Eilish - i love you (Studio Acapella)</title>
+        <itunes:title>Billie Eilish - i love you (Studio Acapella)</itunes:title>
+        <link>https://royalgraphx.podbean.com/e/billie-eilish-i-love-you-studio-acapella/</link>
+        <comments>https://royalgraphx.podbean.com/e/billie-eilish-i-love-you-studio-acapella/#comments</comments>
+        <pubDate>Tue, 03 Dec 2019 23:48:42 -0400</pubDate>
+        <guid isPermaLink="false">royalgraphx.podbean.com/billie-eilish-i-love-you-studio-acapella-a151e760af1980b2fd3eeb7c12f7b5f2</guid>
+                <description><![CDATA[<p>This is a test song, to ask for verification on Apple Podcasts.</p>]]></description>
+        <content:encoded><![CDATA[<p>This is a test song, to ask for verification on Apple Podcasts.</p>]]></content:encoded>
+        
+        <enclosure url="https://mcdn.podbean.com/mf/web/kfks3m/_-P-bYYIFZ9H4.mp3" length="3338757" type="audio/mpeg"/>
+        <itunes:subtitle>This is a test song, to ask for verification on Apple Podcasts.</itunes:subtitle>
+        <itunes:summary>This is a test song, to ask for verification on Apple Podcasts.</itunes:summary>
+        <itunes:author>RoyalGraphX</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>04:53</itunes:duration>
+                <itunes:episode>1</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png" />    </item>
+</channel>
+</rss>
