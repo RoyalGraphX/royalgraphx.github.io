@@ -30,16 +30,16 @@
         <itunes:subtitle>420 Powered Conversations.</itunes:subtitle>
         <lastBuildDate>Wed, 04 Dec 2019</lastBuildDate>
         <item>
-            <title>ep1 (preview)</title>
+            <title>The Beginning</title>
             <description>Episode 1</description>
             <itunes:summary>Welcome to Episode 1 of The Basement Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, featuring a special extended version of 'Maria I'm Drunk', and a previous version of 'ASTROTHUNDER', both by Travis Scott, we hope you enjoy today's episode, and stay tuned for more!</itunes:summary>
             <itunes:subtitle>Episode 1 Shenanigans</itunes:subtitle>
             <itunesu:category itunesu:code="112" />
-            <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/basement_podcasts/ep1-draft.mp3" length="1016422" type="audio/mpeg"/>
+            <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/basement_podcasts/ep1.mp3" length="49493178" type="audio/mpeg"/>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:block>No</itunes:block>
-        <itunes:duration>00:33</itunes:duration>
+        <itunes:duration>00:38</itunes:duration>
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
