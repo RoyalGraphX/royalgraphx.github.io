@@ -16,7 +16,7 @@
             <itunes:email>royalgraphx0@gmail.com</itunes:email>
         </itunes:owner>
         <itunes:category text="Comedy">
-            <itunes:category text="Interview" />
+            <itunes:category text="Comedy" />
         </itunes:category>
         <itunes:keywords></itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
@@ -28,7 +28,7 @@
         <description>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</description>
         <itunes:summary>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:summary>
         <itunes:subtitle>420 Powered Conversations.</itunes:subtitle>
-        <lastBuildDate>Tue, 03 Dec 2019 00:00:00 EST</lastBuildDate>
+        <lastBuildDate>Wed, 04 Dec 2019</lastBuildDate>
         <item>
             <title>i love you (Studio Acapella)</title>
             <description>Billie Eilish</description>
