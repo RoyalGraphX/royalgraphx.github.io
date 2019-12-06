@@ -42,6 +42,7 @@
         <itunes:duration>00:49:04</itunes:duration>
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
+        <pubDate>Wed, 4 Dec 2019</pubDate>
         <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
         </item>
     <item>
@@ -58,6 +59,7 @@
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>trailer</itunes:episodeType>
         <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
+        <pubDate>Wed, 4 Dec 2019</pubDate>
         </item>
     </channel>
 </rss>
