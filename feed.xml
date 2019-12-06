@@ -43,6 +43,7 @@
         <itunes:episodeType>full</itunes:episodeType>
         <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
         <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
+        <link>https://royalgraphx0.github.io/basement_podcasts/ep1.mp3</link>
         </item>
     <item>
             <title>Space Lion (Trailer)</title>
@@ -59,6 +60,7 @@
         <itunes:episodeType>trailer</itunes:episodeType>
         <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
         <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
+        <link>https://royalgraphx0.github.io/basement_podcasts/ep1-draft.mp3</link>
         </item>
     </channel>
 </rss>
