@@ -15,9 +15,9 @@
             <itunes:name>RoyalGraphX</itunes:name>
             <itunes:email>royalgraphx0@gmail.com</itunes:email>
         </itunes:owner>
-        <<itunes:category text="Comedy">
-      <itunes:category text="Comedy Interviews"/>
-    </itunes:category>
+        <itunes:category text="Comedy">
+        <itunes:category text="Comedy Interviews"/>
+        </itunes:category>
         <itunes:keywords></itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="https://royalgraphx0.github.io/podcast.jpg" />
