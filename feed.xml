@@ -65,5 +65,23 @@
         <link>https://royalgraphx0.github.io/</link>
         <guid>https://royalgraphx0.github.io/basement_podcasts/ep1-draft.mp3</guid>
       </item>
+      <item>
+          <title>NorthStar</title>
+          <description>Original XXXTentacion Song</description>
+          <itunes:summary>Original XXXTentacion Song</itunes:summary>
+          <itunes:subtitle>Original XXXTentacion Song</itunes:subtitle>
+          <itunesu:category itunesu:code="112" />
+          <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/x.mp3" length="3612359" type="audio/mpeg"/>
+          <itunes:author>RoyalGraphX</itunes:author>
+          <itunes:explicit>yes</itunes:explicit>
+          <itunes:block>Yes</itunes:block>
+          <itunes:duration>00:03:46</itunes:duration>
+          <itunes:episode>2</itunes:episode>
+          <itunes:episodeType>full</itunes:episodeType>
+          <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
+          <pubDate>Sat, 7 December 2019 11:15:00 AM CST</pubDate>
+          <link>https://royalgraphx0.github.io/</link>
+          <guid>https://royalgraphx0.github.io/x.mp3</guid>
+        </item>
     </channel>
 </rss>
