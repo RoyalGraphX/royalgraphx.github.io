@@ -71,7 +71,7 @@
           <itunes:summary>Original XXXTentacion Song</itunes:summary>
           <itunes:subtitle>Original XXXTentacion Song</itunes:subtitle>
           <itunesu:category itunesu:code="112" />
-          <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/run-x.mp3" length="6471213" type="audio/mpeg"/>
+          <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/run-x.m4a" length="6471213" type="audio/mp4"/>
           <itunes:author>RoyalGraphX</itunes:author>
           <itunes:explicit>yes</itunes:explicit>
           <itunes:block>No</itunes:block>
@@ -81,7 +81,7 @@
           <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
           <pubDate>Sun, 8 December 2019 10:45:00 PM CST</pubDate>
           <link>https://royalgraphx0.github.io/</link>
-          <guid>https://royalgraphx0.github.io/run-x.mp3</guid>
+          <guid>https://royalgraphx0.github.io/run-x.m4a</guid>
         </item>
     </channel>
 </rss>
