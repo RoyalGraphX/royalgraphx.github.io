@@ -22,13 +22,13 @@
         <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="https://royalgraphx0.github.io/podcast.jpg" />
         <atom:link href="https://royalgraphx0.github.io/feed.xml" rel="self" type="application/rss+xml" />
-        <pubDate>Wed, 4 Dec 2019</pubDate>
+        <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
         <title>The Basement</title>
         <itunes:author>RoyalGraphX</itunes:author>
         <description>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</description>
         <itunes:summary>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:summary>
         <itunes:subtitle>420 Powered Conversations.</itunes:subtitle>
-        <lastBuildDate>Wed, 04 Dec 2019</lastBuildDate>
+        <lastBuildDate>Wed, 4 December 2019 12:00:00 AM CST</lastBuildDate>
     <item>
         <title>Space Lion</title>
         <description>Welcome to Episode 1 of The Basement Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, right from the get go we get a song, a previous version of 'ASTROTHUNDER', Later greeted by an extended version of 'Maria I'm Drunk', and finally the rapper Black Kodak had Travis orignally on 'Roll in Peace' and we appreciate the lost verse of Travis Scott, and we would like you to enjoy today's episode just as much. For the final song, we are introduced to Tinashe on Hot Sauce [V2], a leak for another Travis Scott adventure. Stay tuned for more!</description>
@@ -72,7 +72,7 @@
           <itunes:subtitle>XXXTentacion & Willie G</itunes:subtitle>
           <itunesu:category itunesu:code="112" />
           <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/run-x.m4a" length="3257453" type="audio/mp4"/>
-          <itunes:author>XXXTentacion & Willie G</itunes:author>
+          <itunes:author>RoyalGraphX</itunes:author>
           <itunes:explicit>yes</itunes:explicit>
           <itunes:block>No</itunes:block>
           <itunes:duration>00:03:25</itunes:duration>
