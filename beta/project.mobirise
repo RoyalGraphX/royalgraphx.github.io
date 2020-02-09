@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RGX2",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -75,7 +75,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "",
+              "link": "index.html",
               "title": ""
             }
           },
@@ -610,7 +610,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "",
+              "link": "index.html",
               "title": ""
             }
           },
@@ -803,7 +803,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "",
+              "link": "index.html",
               "title": ""
             }
           },
@@ -951,7 +951,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "",
+              "link": "index.html",
               "title": ""
             }
           },
@@ -1226,7 +1226,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "",
+              "link": "index.html",
               "title": ""
             }
           },
