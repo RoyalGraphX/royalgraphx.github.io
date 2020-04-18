@@ -1,2 +1,0 @@
-# Sileo
-Public Sileo Repository.
