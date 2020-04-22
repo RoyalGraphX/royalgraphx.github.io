@@ -22,7 +22,7 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 69,
+    "uniqCompNum": 70,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png"
   },
@@ -211,6 +211,35 @@
             }
           },
           "_anchor": "header3-1v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thumb1-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "\"UPCOMING\"",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=mGgHj2mMIGw",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"COMING SOON</i><i>\" - COMING SOON - COMING SOON</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1x"
         },
         {
           "_styles": {},
