@@ -1,3 +1,7 @@
+#!/bin/bash
 git add --all
-git commit -m "Scripted Run / No Further Details"
+echo Enter Commit Details
+read varcommit
+git commit -m "$varcommit"
 git push
+echo Commit $varname pushed successfully.
