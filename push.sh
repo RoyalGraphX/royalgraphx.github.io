@@ -4,4 +4,4 @@ echo Enter Commit Details
 read varcommit
 git commit -m "$varcommit"
 git push
-echo Commit $varname pushed successfully.
+echo Commit "$varcommit" pushed successfully.
