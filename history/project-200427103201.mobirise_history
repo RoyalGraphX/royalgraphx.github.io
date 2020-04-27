@@ -22,9 +22,11 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 71,
+    "uniqCompNum": 70,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx0.github.io"
   },
   "pages": {
     "index.html": {
@@ -161,35 +163,6 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/the-return-1280x720.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "THERETURN",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=mGgHj2mMIGw",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "\"COMING SOON\" - COMING SOON - COMING SOON<br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1y"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/thumb1-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
@@ -245,12 +218,9 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/20191123-dsc-6525-2000x1333.jpeg",
+              "src": "images/slide3.jpg",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
+              "width": 1400
             },
             "video": {
               "active": true,
