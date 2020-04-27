@@ -146,7 +146,8 @@
           "_name": "header3",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             },
             "H3": {
               "text-align": "center"
@@ -155,7 +156,11 @@
           "_anchor": "header3-1v"
         },
         {
-          "_styles": {},
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
           "_params": {
             "showText": true
           },
