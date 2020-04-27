@@ -24,7 +24,9 @@
     "google-analytics": "",
     "uniqCompNum": 71,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx0.github.io"
   },
   "pages": {
     "index.html": {
@@ -161,7 +163,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/the-return-bw-1280x720.png",
+              "src": "@PROJECT_PATH@/assets/images/the%20return-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
