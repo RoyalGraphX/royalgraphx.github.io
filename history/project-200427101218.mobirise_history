@@ -1,0 +1,1598 @@
+{
+  "settings": {
+    "name": "RGX2",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#2e2e2e",
+        "#464646",
+        "#222222",
+        "#282828"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.10.7",
+    "siteFonts": [],
+    "witsec-white-label": "on",
+    "siteUrl": "",
+    "sitemapSwitcherAuto": "on",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "",
+    "uniqCompNum": 70,
+    "versionPublish": "4.10.7",
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx0.github.io"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apple_music.html\">Apple Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx0.github.io/royalrepo\">Cydia Repository</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-2"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "LATEST VIDEOS",
+          "meta": "Last Updated - Apr 27, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-1v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/thumb1-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "\"UPCOMING\"",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=mGgHj2mMIGw",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"COMING SOON</i><i>\" - COMING SOON - COMING SOON</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1x"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=61tU_-V71dI",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"YGB Hendrx - Message to the Opps (ft. Rob2xx)\" - RoyalGraphX -&nbsp;</i>Apr 17, 2020<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1w"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=mGgHj2mMIGw",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"Adidas Legacy (Prosser)\" - RoyalGraphX -&nbsp;</i>Feb 23, 2020<br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"FINTAS\" - RoyalGraphX - Jan 16, 2020</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-8"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=4-EfKRlJPt8",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"'INGRIA' (UNFINISHED VERSION)\" - RoyalGraphX -&nbsp;Jan 16, 2020</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-a"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=dNaaWQQQx0w",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"Chrome Chicago X BWF\" - Broken Without Fixed -&nbsp;Feb 25, 2018</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-b"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=NsfrcJqHaxY",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"LOW// Bicycles\" - Broken Without Fixed -&nbsp;Feb 23, 2018</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-c"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=gOK-hLf7fOk",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"Driven By Design\" - Broken Without Fixed -&nbsp;Dec 9, 2017</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-d"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "youtube.com/watch?v=3BNh3cRTMy0",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"Homeless Food Drive\" - Broken Without Fixed -&nbsp;Nov 23, 2017</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-e"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=9Bi4_QPi0-4",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"Syfer\" - Broken Without Fixed -&nbsp;Nov 5, 2017</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-f"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=4Vyy89jF-kE",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"A Day With BWF\" - Broken Without Fixed -&nbsp;Oct 22, 2017</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=sSPyDuMSts0",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"'RETURN'\" - Broken Without Fixed -&nbsp;Sep 17, 2017</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-h"
+        },
+        {
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=I8M1o3VfuY8",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<p style=\"margin-left: 25px;\"><i>\"$UICIDEBOY$ - TULANE\" - Broken Without Fixed -&nbsp;Aug 23, 2017</i></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-i"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
+          "form": {
+            "action": "minecraftia2013@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-j"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-k",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "apple_music.html": {
+      "settings": {
+        "meta_descr": "Apple Music Free 4 Months, Redeem here!",
+        "title": "Apple Music",
+        "order": 2
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apple_music.html\">Apple Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx0.github.io/royalrepo\">Cydia Repository</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-1h"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-1j"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "APPLE MUSIC",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center",
+              "color": "#000000"
+            }
+          },
+          "_anchor": "header3-1k"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "text-align": "center"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": false,
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "APPLY FOR A CODE",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>This is a security measure to prevent people from reusing my codes.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://snapchat.com/add/itechdaily\" data-toolbar=\"-mbrBtnMove\">Message on Snapchat</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1r"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "TOP ROW - IOS INSTRUCTIONS<br>BOTTOM ROW - ANDROID INSTRUCTIONS",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-1o"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-696x696-696x696.png",
+                "alt": "Open Appstore",
+                "title": "Launch the AppStore",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/2-696x696-696x696.png",
+                "alt": "Open Account Settings",
+                "title": "Open Account Settings",
+                "caption": "Type caption here"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3-696x696-696x696.png",
+                "alt": "Change Country Settings",
+                "title": "Change Country Settings",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/5-1-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/5-1-696x696-696x696.png",
+                "alt": "Change to Italy Region, and redeem code",
+                "title": "Change to Italy Region, and Redeem Code",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/1-1-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/1-1-696x696-696x696.png",
+                "alt": "Download Apple Music",
+                "title": "Download Apple Music",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/3-1-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/3-1-696x696-696x696.png",
+                "alt": "Create Burner Account in Italy Region",
+                "title": "Create Burner Account in Italy Region",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/4-1-696x696.png",
+                "thumb": "@PROJECT_PATH@/assets/images/4-1-696x696-696x696.png",
+                "alt": "Italy as country, use fake information",
+                "title": "Italy as country, use fake information",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/6-3-371x376.png",
+                "thumb": "@PROJECT_PATH@/assets/images/6-3-371x376-371x376.png",
+                "alt": "Redeem Code",
+                "title": "Redeem Code",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1n"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": false,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": "57",
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/6-696x696.png",
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MAKE SURE YOU CANCEL SUBSCRIPTION SO YOU DON'T GET CHARGED",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-1i"
+        }
+      ]
+    },
+    "photoshoots.html": {
+      "settings": {
+        "meta_descr": "Web Page Creator Description",
+        "title": "Photoshoots",
+        "order": 3
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apple_music.html\">Apple Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx0.github.io/royalrepo\">Cydia Repository</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-w"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-y"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "PHOTOSHOOT ALBUMS",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-z",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          }
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20191123-dsc-6525-2000x1333.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "ADIDAS LEGACY",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://adobe.ly/2TMoCjk\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-16"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20191113-dsc-6970-2000x1333.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PCA CTE<br>CULINARY",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://adobe.ly/373r0GM\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-17"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20191003-dsc-200-2000x1156.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PCA PREP<br>RALLY",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://adobe.ly/2njLWHs\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-18"
+        },
+        {
+          "_inherit": "header1",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/20191004-dsc-129-2000x1142.jpeg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "PCA HOME<br>COMING",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://adobe.ly/3276PF0\" data-toolbar=\"-mbrBtnMove\">VIEW</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_anchor": "header4-19",
+          "_styles": {
+            ".btn": {
+              "font-size": "14px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-x",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "privacy_policy.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Privacy Policy",
+        "order": 4
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-s"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "PRIVACY POLICY",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-1m"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apple_music.html\">Apple Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx0.github.io/royalrepo\">Cydia Repository</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-q"
+        },
+        {
+          "text": "<p>Thank you for choosing to be part of our community at RoyalGraphX (“Company”, “we”, “us”, or “our”). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our notice, or our practices with regards to your personal information, please contact us at royalgraphx0@gmail.com.<br></p><p><br></p><p>When you visit our website https://royalgraphx0.github.io, and use our services, you trust us with your personal information. We take your privacy very seriously. In this privacy notice, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy notice that you do not agree with, please discontinue use of our Sites and our services.</p><p><br></p><p>This privacy notice applies to all information collected through our website (such as https://royalgraphx0.github.io), and/or any related services, sales, marketing or events (we refer to them collectively in this privacy notice as the \"Services\").</p><p><br></p><p>Please read this privacy notice carefully as it will help you make informed decisions about sharing your personal information with us.</p><p><br></p><p>TABLE OF CONTENTS</p><p><br></p><p>1. WHAT INFORMATION DO WE COLLECT?</p><p><br></p><p>2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?</p><p><br></p><p>3. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?</p><p><br></p><p>4. HOW LONG DO WE KEEP YOUR INFORMATION?</p><p><br></p><p>5. DO WE COLLECT INFORMATION FROM MINORS?</p><p><br></p><p>6. WHAT ARE YOUR PRIVACY RIGHTS?</p><p><br></p><p>7. CONTROLS FOR DO-NOT-TRACK FEATURES</p><p><br></p><p>8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?</p><p><br></p><p>9. DO WE MAKE UPDATES TO THIS POLICY?</p><p><br></p><p>10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</p><p><br></p><p><br></p><p><br></p><p>1. WHAT INFORMATION DO WE COLLECT?</p><p><br></p><p><br></p><p>Information automatically collected</p><p><br></p><p>In Short:   Some information — such as IP address and/or browser and device characteristics — is collected automatically when you visit our Services.</p><p><br></p><p>We automatically collect certain information when you visit, use or navigate the Services. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Services and other technical information. This information is primarily needed to maintain the security and operation of our Services, and for our internal analytics and reporting purposes.</p><p><br></p><p><br></p><p><br></p><p><br></p><p>2. WILL YOUR INFORMATION BE SHARED WITH ANYONE?</p><p><br></p><p>In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.</p><p><br></p><p>We may process or share data based on the following legal basis:</p><p>Consent: We may process your data if you have given us specific consent to use your personal information in a specific purpose.</p><p><br></p><p>Legitimate Interests: We may process your data when it is reasonably necessary to achieve our legitimate business interests.</p><p><br></p><p>Performance of a Contract: Where we have entered into a contract with you, we may process your personal information to fulfill the terms of our contract.</p><p><br></p><p>Legal Obligations: We may disclose your information where we are legally required to do so in order to comply with applicable law, governmental requests, a judicial proceeding, court order, or legal process, such as in response to a court order or a subpoena (including in response to public authorities to meet national security or law enforcement requirements).</p><p><br></p><p>Vital Interests: We may disclose your information where we believe it is necessary to investigate, prevent, or take action regarding potential violations of our policies, suspected fraud, situations involving potential threats to the safety of any person and illegal activities, or as evidence in litigation in which we are involved.</p><p>More specifically, we may need to process your data or share your personal information in the following situations:</p><p><br></p><p>Vendors, Consultants and Other Third-Party Service Providers. We may share your data with third party vendors, service providers, contractors or agents who perform services for us or on our behalf and require access to such information to do that work. Examples include: payment processing, data analysis, email delivery, hosting services, customer service and marketing efforts. We may allow selected third parties to use tracking technology on the Services, which will enable them to collect data about how you interact with the Services over time. This information may be used to, among other things, analyze and track data, determine the popularity of certain content and better understand online activity. Unless described in this Policy, we do not share, sell, rent or trade any of your information with third parties for their promotional purposes.</p><p><br></p><p>Business Transfers. We may share or transfer your information in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company.</p><p><br></p><p>Third-Party Advertisers. We may use third-party advertising companies to serve ads when you visit the Services. These companies may use information about your visits to our Website(s) and other websites that are contained in web cookies and other tracking technologies in order to provide advertisements about goods and services of interest to you.</p><p><br></p><p><br></p><p>3. WHAT IS OUR STANCE ON THIRD-PARTY WEBSITES?</p><p><br></p><p>In Short:  We are not responsible for the safety of any information that you share with third-party providers who advertise, but are not affiliated with, our websites.</p><p><br></p><p>The Services may contain advertisements from third parties that are not affiliated with us and which may link to other websites, online services or mobile applications. We cannot guarantee the safety and privacy of data you provide to any third parties. Any data collected by third parties is not covered by this privacy notice. We are not responsible for the content or privacy and security practices and policies of any third parties, including other websites, services or applications that may be linked to or from the Services. You should review the policies of such third parties and contact them directly to respond to your questions.</p><p><br></p><p><br></p><p><br></p><p>4. HOW LONG DO WE KEEP YOUR INFORMATION?</p><p><br></p><p>In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.</p><p><br></p><p>We will only keep your personal information for as long as it is necessary for the purposes set out in this privacy notice, unless a longer retention period is required or permitted by law (such as tax, accounting or other legal requirements). No purpose in this policy will require us keeping your personal information for longer than 90 days.</p><p><br></p><p>When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize it, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.</p><p><br></p><p><br></p><p><br></p><p>5. DO WE COLLECT INFORMATION FROM MINORS?</p><p><br></p><p>In Short:  We do not knowingly collect data from or market to children under 18 years of age.</p><p><br></p><p>We do not knowingly solicit data from or market to children under 18 years of age. By using the Services, you represent that you are at least 18 or that you are the parent or guardian of such a minor and consent to such minor dependent’s use of the Services. If we learn that personal information from users less than 18 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we have collected from children under age 18, please contact us at royalgraphx0@gmail.com.</p><p><br></p><p><br></p><p><br></p><p>6. WHAT ARE YOUR PRIVACY RIGHTS?</p><p><br></p><p>In Short:  You may review, change, or terminate your account at any time.</p><p><br></p><p>If you are resident in the European Economic Area and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.</p><p><br></p><p><br></p><p><br></p><p>7. CONTROLS FOR DO-NOT-TRACK FEATURES</p><p><br></p><p>Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track (“DNT”) feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. No uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice.</p><p><br></p><p><br></p><p><br></p><p>8. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?</p><p><br></p><p>In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.</p><p><br></p><p>California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our users who are California residents to request and obtain from us, once a year and free of charge, information about categories of personal information (if any) we disclosed to third parties for direct marketing purposes and the names and addresses of all third parties with which we shared personal information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to us using the contact information provided below.</p><p><br></p><p>If you are under 18 years of age, reside in California, and have a registered account with the Services, you have the right to request removal of unwanted data that you publicly post on the Services. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the Services, but please be aware that the data may not be completely or comprehensively removed from our systems.</p><p><br></p><p><br></p><p><br></p><p>9. DO WE MAKE UPDATES TO THIS POLICY?</p><p><br></p><p>In Short:  Yes, we will update this policy as necessary to stay compliant with relevant laws.</p><p><br></p><p>We may update this privacy notice from time to time. The updated version will be indicated by an updated “Revised” date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.</p><p><br></p><p><br></p><p><br></p><p>10. HOW CAN YOU CONTACT US ABOUT THIS POLICY?</p><p><br></p><p>If you have questions or comments about this policy, you may email us at royalgraphx0@gmail.com or by post to:</p><p><br></p><p>RoyalGraphX&nbsp;</p><p>Chicago, IL</p><p>United States</p><p><br></p><p>HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?</p><p>Based on the laws of some countries, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form below. We will respond to your request within 30 days.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-u"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "0",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "CONTACT FORM",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>",
+          "form": {
+            "action": "minecraftia2013@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-v"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-r",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    },
+    "tos.html": {
+      "settings": {
+        "meta_descr": "Website Builder Description",
+        "title": "Terms of Use",
+        "order": 5
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Other</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"apple_music.html\">Apple Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx0.github.io/royalrepo\">Cydia Repository</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "index.html",
+              "title": ""
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-l"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-n"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "TERMS OF USE",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-1l"
+        },
+        {
+          "text": "<p>AGREEMENT TO TERMS<br></p><p>These Terms of Use constitute a legally binding agreement made between you, whether personally or on behalf of an entity (“you”) and RoyalGraphX (\"Company\", “we”, “us”, or “our”), concerning your access to and use of the https://royalgraphx0.github.io website as well as any other media form, media channel, mobile website or mobile application related, linked, or otherwise connected thereto (collectively, the “Site”). You agree that by accessing the Site, you have read, understood, and agreed to be bound by all of these Terms of Use. IF YOU DO NOT AGREE WITH ALL OF THESE TERMS OF USE, THEN YOU ARE EXPRESSLY PROHIBITED FROM USING THE SITE AND YOU MUST DISCONTINUE USE IMMEDIATELY.</p><p>&nbsp;</p><p>Supplemental terms and conditions or documents that may be posted on the Site from time to time are hereby expressly incorporated herein by reference. We reserve the right, in our sole discretion, to make changes or modifications to these Terms of Use at any time and for any reason. We will alert you about any changes by updating the “Last updated” date of these Terms of Use, and you waive any right to receive specific notice of each such change. It is your responsibility to periodically review these Terms of Use to stay informed of updates. You will be subject to, and will be deemed to have been made aware of and to have accepted, the changes in any revised Terms of Use by your continued use of the Site after the date such revised Terms of Use are posted.</p><p>&nbsp;</p><p>The information provided on the Site is not intended for distribution to or use by any person or entity in any jurisdiction or country where such distribution or use would be contrary to law or regulation or which would subject us to any registration requirement within such jurisdiction or country. Accordingly, those persons who choose to access the Site from other locations do so on their own initiative and are solely responsible for compliance with local laws, if and to the extent local laws are applicable.</p><p>&nbsp;</p><p>The Site is intended for users who are at least 13 years of age. All users who are minors in the jurisdiction in which they reside (generally under the age of 18) must have the permission of, and be directly supervised by, their parent or guardian to use the Site. If you are a minor, you must have your parent or guardian read and agree to these Terms of Use prior to you using the Site.&nbsp;</p><p>&nbsp;</p><p>INTELLECTUAL PROPERTY RIGHTS</p><p>&nbsp;</p><p>Unless otherwise indicated, the Site is our proprietary property and all source code, databases, functionality, software, website designs, audio, video, text, photographs, and graphics on the Site (collectively, the “Content”) and the trademarks, service marks, and logos contained therein (the “Marks”) are owned or controlled by us or licensed to us, and are protected by copyright and trademark laws and various other intellectual property rights and unfair competition laws of the United States, foreign jurisdictions, and international conventions. The Content and the Marks are provided on the Site “AS IS” for your information and personal use only. Except as expressly provided in these Terms of Use, no part of the Site and no Content or Marks may be copied, reproduced, aggregated, republished, uploaded, posted, publicly displayed, encoded, translated, transmitted, distributed, sold, licensed, or otherwise exploited for any commercial purpose whatsoever, without our express prior written permission. If there is any content on this website that you believe we do not have access to use, please contact us immediately notifying us that you wish the discontinued use of the content.&nbsp;</p><p>&nbsp;</p><p>Provided that you are eligible to use the Site, you are granted a limited license to access and use the Site and to download or print a copy of any portion of the Content to which you have properly gained access solely for your personal, non-commercial use. We reserve all rights not expressly granted to you in and to the Site, the Content and the Marks.</p><p>&nbsp;</p><p>USER REPRESENTATIONS</p><p>&nbsp;</p><p>By using the Site, you represent and warrant that: (1) you have the legal capacity and you agree to comply with these Terms of Use; (2) you are not under the age of 13; (3) you are not a minor in the jurisdiction in which you reside, or if a minor, you have received parental permission to use the Site; (4) you will not access the Site through automated or non-human means, whether through a bot, script, or otherwise; (5) you will not use the Site for any illegal or unauthorized purpose; and (6) your use of the Site will not violate any applicable law or regulation.</p><p>&nbsp;</p><p>If you provide any information that is untrue, inaccurate, not current, or incomplete, we have the right to suspend or terminate your account and refuse any and all current or future use of the Site (or any portion thereof).</p><p>&nbsp;</p><p>PROHIBITED ACTIVITIES</p><p>&nbsp;</p><p>You may not access or use the Site for any purpose other than that for which we make the Site available. The Site may not be used in connection with any commercial endeavors except those that are specifically endorsed or approved by us.</p><p>&nbsp;</p><p>As a user of the Site, you agree not to:</p><p><br></p><p>1. Systematically retrieve data or other content from the Site to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.</p><p>2. Circumvent, disable, or otherwise interfere with security-related features of the Site, including features that prevent or restrict the use or copying of any Content or enforce limitations on the use of the Site and/or the Content contained therein.</p><p>3. Disparage, tarnish, or otherwise harm, in our opinion, us and/or the Site.</p><p>4. Use any information obtained from the Site in order to harass, abuse, or harm another person.</p><p>5. Make improper use of our support services or submit false reports of abuse or misconduct.</p><p>6. Use the Site to advertise or offer to sell goods and services.</p><p>7. Delete the copyright or other proprietary rights notice from any Content.</p><p>8. Attempt to impersonate another user or person or use the username of another user.</p><p>9. Sell or otherwise transfer your profile.</p><p>10. Attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.</p><p>11. Decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.</p><p>12. Make any unauthorized use of the Site, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.</p><p>13. Use the Site as part of any effort to compete with us or otherwise use the Site and/or the Content for any revenue-generating endeavor or commercial enterprise.</p><p>14. Use the website to embed in other sites, This website is the only official way to view content produced by (\"Alan\",\"RGX\",\"RoyalGraphX\", and any other associated names), It is prohibited to redistribute any of the content viewable here without any expressed written consent.</p><p>&nbsp; &nbsp; &nbsp;</p><p>USER GENERATED CONTRIBUTIONS&nbsp;</p><p>&nbsp; &nbsp;&nbsp;</p><p>The Site does not offer users to submit or post content. We may provide you with the opportunity to create, submit, post, display, transmit, perform, publish, distribute, or broadcast content and materials to us or on the Site, including but not limited to text, writings, video, audio, photographs, graphics, comments, suggestions, or personal information or other material (collectively, \"Contributions\"). Contributions may be viewable by other users of the Site and through third-party websites. As such, any Contributions you transmit may be treated in accordance with the Site Privacy Policy. When you create or make available any Contributions, you thereby represent and warrant that:</p><p>&nbsp;&nbsp;</p><p>1.  The creation, distribution, transmission, public display, or performance, and the accessing, downloading, or copying of your Contributions do not and will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark, trade secret, or moral rights of any third party.</p><p>2.  You are the creator and owner of or have the necessary licenses, rights, consents, releases, and permissions to use and to authorize us, the Site, and other users of the Site to use your Contributions in any manner contemplated by the Site and these Terms of Use.</p><p>3.  You have the written consent, release, and/or permission of each and every identifiable individual person in your Contributions to use the name or likeness of each and every such identifiable individual person to enable inclusion and use of your Contributions in any manner contemplated by the Site and these Terms of Use.</p><p>4.  Your Contributions are not false, inaccurate, or misleading.</p><p>5.  Your Contributions are not unsolicited or unauthorized advertising, promotional materials, pyramid schemes, chain letters, spam, mass mailings, or other forms of solicitation.</p><p>6.  Your Contributions are not obscene, lewd, lascivious, filthy, violent, harassing, libelous, slanderous, or otherwise objectionable (as determined by us).</p><p>7.  Your Contributions do not ridicule, mock, disparage, intimidate, or abuse anyone.</p><p>8.  Your Contributions do not advocate the violent overthrow of any government or incite, encourage, or threaten physical harm against another.</p><p>9.  Your Contributions do not violate any applicable law, regulation, or rule.</p><p>10.  Your Contributions do not violate the privacy or publicity rights of any third party.</p><p>11.  Your Contributions do not contain any material that solicits personal information from anyone under the age of 18 or exploits people under the age of 18 in a sexual or violent manner.</p><p>12.  Your Contributions do not violate any federal or state law concerning child pornography, or otherwise intended to protect the health or well-being of minors;</p><p>13.  Your Contributions do not include any offensive comments that are connected to race, national origin, gender, sexual preference, or physical handicap.</p><p>14.  Your Contributions do not otherwise violate, or link to material that violates, any provision of these Terms of Use, or any applicable law or regulation.</p><p><br></p><p>Any use of the Site in violation of the foregoing violates these Terms of Use and may result in, among other things, termination or suspension of your rights to use the Site.</p><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p><p>CONTRIBUTION LICENSE</p><p>&nbsp;&nbsp;</p><p>You and Site agree that we may access, store, process, and use any information and personal data that you provide following the terms of the Privacy Policy and your choices (including settings).</p><p><br></p><p>By submitting suggestions or other feedback regarding the Site, you agree that we can use and share such feedback for any purpose without compensation to you.&nbsp;</p><p><br></p><p>We do not assert any ownership over your Contributions. You retain full ownership of all of your Contributions and any intellectual property rights or other proprietary rights associated with your Contributions. We are not liable for any statements or representations in your Contributions provided by you in any area on the Site. You are solely responsible for your Contributions to the Site and you expressly agree to exonerate us from any and all responsibility and to refrain from any legal action against us regarding your Contributions.</p><p><br></p><p>THIRD-PARTY WEBSITE AND CONTENT</p><p><br></p><p>The Site may contain (or you may be sent via the Site) links to other websites (\"Third-Party Websites\") as well as articles, photographs, text, graphics, pictures, designs, music, sound, video, information, applications, software, and other content or items belonging to or originating from third parties (\"Third-Party Content\"). Such Third-Party Websites and Third-Party Content are not investigated, monitored, or checked for accuracy, appropriateness, or completeness by us, and we are not responsible for any Third-Party Websites accessed through the Site or any Third-Party Content posted on, available through, or installed from the Site, including the content, accuracy, offensiveness, opinions, reliability, privacy practices, or other policies of or contained in the Third-Party Websites or the Third-Party Content. Inclusion of, linking to, or permitting the use or installation of any Third-Party Websites or any Third-Party Content does not imply approval or endorsement thereof by us. If you decide to leave the Site and access the Third-Party Websites or to use or install any Third-Party Content, you do so at your own risk, and you should be aware these Terms of Use no longer govern. You should review the applicable terms and policies, including privacy and data gathering practices, of any website to which you navigate from the Site or relating to any applications you use or install from the Site. Any purchases you make through Third-Party Websites will be through other websites and from other companies, and we take no responsibility whatsoever in relation to such purchases which are exclusively between you and the applicable third party. You agree and acknowledge that we do not endorse the products or services offered on Third-Party Websites and you shall hold us harmless from any harm caused by your purchase of such products or services. Additionally, you shall hold us harmless from any losses sustained by you or harm caused to you relating to or resulting in any way from any Third-Party Content or any contact with Third-Party Websites.</p><p>&nbsp;&nbsp;</p><p>ADVERTISERS</p><p>&nbsp;&nbsp;</p><p>We allow advertisers to display their advertisements and other information in certain areas of the Site, such as sidebar advertisements or banner advertisements. If you are an advertiser, you shall take full responsibility for any advertisements you place on the Site and any services provided on the Site or products sold through those advertisements. Further, as an advertiser, you warrant and represent that you possess all rights and authority to place advertisements on the Site, including, but not limited to, intellectual property rights, publicity rights, and contractual rights. We simply provide the space to place such advertisements, and we have no other relationship with advertisers.</p><p>&nbsp;&nbsp;</p><p>SITE MANAGEMENT</p><p>&nbsp;</p><p>We reserve the right, but not the obligation, to: (1) monitor the Site for violations of these Terms of Use; (2) take appropriate legal action against anyone who, in our sole discretion, violates the law or these Terms of Use, including without limitation, reporting such user to law enforcement authorities; (3) in our sole discretion and without limitation, refuse, restrict access to, limit the availability of, or disable (to the extent technologically feasible) any of your Contributions or any portion thereof; (4) in our sole discretion and without limitation, notice, or liability, to remove from the Site or otherwise disable all files and content that are excessive in size or are in any way burdensome to our systems; and (5) otherwise manage the Site in a manner designed to protect our rights and property and to facilitate the proper functioning of the Site.</p><p>&nbsp;</p><p>PRIVACY POLICY</p><p><br></p><p>We care about data privacy and security. By using the Site, you agree to be bound by our Privacy Policy posted on the Site, which is incorporated into these Terms of Use. Please be advised the Site is hosted in the United States. If you access the Site from the European Union, Asia, or any other region of the world with laws or other requirements governing personal data collection, use, or disclosure that differ from applicable laws in the United States, then through your continued use of the Site, you are transferring your data to the United States, and you expressly consent to have your data transferred to and processed in the United States. Further, we do not knowingly accept, request, or solicit information from children or knowingly market to children. Therefore, in accordance with the U.S. Children’s Online Privacy Protection Act, if we receive actual knowledge that anyone under the age of 13 has provided personal information to us without the requisite and verifiable parental consent, we will delete that information from the Site as quickly as is reasonably practical.</p><p>&nbsp;</p><p>TERM AND TERMINATION</p><p>&nbsp;</p><p>These Terms of Use shall remain in full force and effect while you use the Site. WITHOUT LIMITING ANY OTHER PROVISION OF THESE TERMS OF USE, WE RESERVE THE RIGHT TO, IN OUR SOLE DISCRETION AND WITHOUT NOTICE OR LIABILITY, DENY ACCESS TO AND USE OF THE SITE (INCLUDING BLOCKING CERTAIN IP ADDRESSES), TO ANY PERSON FOR ANY REASON OR FOR NO REASON, INCLUDING WITHOUT LIMITATION FOR BREACH OF ANY REPRESENTATION, WARRANTY, OR COVENANT CONTAINED IN THESE TERMS OF USE OR OF ANY APPLICABLE LAW OR REGULATION. WE MAY TERMINATE YOUR USE OR PARTICIPATION IN THE SITE OR DELETE ANY CONTENT OR INFORMATION THAT YOU POSTED AT ANY TIME, WITHOUT WARNING, IN OUR SOLE DISCRETION.</p><p>&nbsp;</p><p>If we terminate or suspend your account for any reason, you are prohibited from registering and creating a new account under your name, a fake or borrowed name, or the name of any third party, even if you may be acting on behalf of the third party. In addition to terminating or suspending your account, we reserve the right to take appropriate legal action, including without limitation pursuing civil, criminal, and injunctive redress.</p><p>&nbsp;</p><p>MODIFICATIONS AND INTERRUPTIONS&nbsp;</p><p>&nbsp;</p><p>We reserve the right to change, modify, or remove the contents of the Site at any time or for any reason at our sole discretion without notice. However, we have no obligation to update any information on our Site. We also reserve the right to modify or discontinue all or part of the Site without notice at any time. We will not be liable to you or any third party for any modification, price change, suspension, or discontinuance of the Site. &nbsp;</p><p>&nbsp;</p><p>We cannot guarantee the Site will be available at all times. We may experience hardware, software, or other problems or need to perform maintenance related to the Site, resulting in interruptions, delays, or errors. We reserve the right to change, revise, update, suspend, discontinue, or otherwise modify the Site at any time or for any reason without notice to you. You agree that we have no liability whatsoever for any loss, damage, or inconvenience caused by your inability to access or use the Site during any downtime or discontinuance of the Site. Nothing in these Terms of Use will be construed to obligate us to maintain and support the Site or to supply any corrections, updates, or releases in connection therewith.</p><p>&nbsp;</p><p>GOVERNING LAW</p><p><br></p><p>These Terms of Use and your use of the Site are governed by and construed in accordance with the laws of the State of Illinois applicable to agreements made and to be entirely performed within the State of Illinois, without regard to its conflict of law principles.</p><p><br></p><p>DISPUTE RESOLUTION</p><p>&nbsp;</p><p>Binding Arbitration</p><p>&nbsp; &nbsp; &nbsp; &nbsp;</p><p>If the Parties are unable to resolve a Dispute through informal negotiations, the Dispute (except those Disputes expressly excluded below) will be finally and exclusively resolved by binding arbitration. YOU UNDERSTAND THAT WITHOUT THIS PROVISION, YOU WOULD HAVE THE RIGHT TO SUE IN COURT AND HAVE A JURY TRIAL. The arbitration shall be commenced and conducted under the Commercial Arbitration Rules of the American Arbitration Association (\"AAA\") and, where appropriate, the AAA’s Supplementary Procedures for Consumer Related Disputes (\"AAA Consumer Rules\"), both of which are available at the AAA website: www.adr.org. Your arbitration fees and your share of arbitrator compensation shall be governed by the AAA Consumer Rules and, where appropriate, limited by the AAA Consumer Rules. If such costs are determined to by the arbitrator to be excessive, we will pay all arbitration fees and expenses. The arbitration may be conducted in person, through the submission of documents, by phone, or online. The arbitrator will make a decision in writing, but need not provide a statement of reasons unless requested by either Party. The arbitrator must follow applicable law, and any award may be challenged if the arbitrator fails to do so. Except where otherwise required by the applicable AAA rules or applicable law, the arbitration will take place in Chicago County, Illinois. Except as otherwise provided herein, the Parties may litigate in court to compel arbitration, stay proceedings pending arbitration, or to confirm, modify, vacate, or enter judgment on the award entered by the arbitrator.</p><p>&nbsp;</p><p>If for any reason, a Dispute proceeds in court rather than arbitration, the Dispute shall be commenced or prosecuted in the state and federal courts located in Chicago County, Illinois, and the Parties hereby consent to, and waive all defenses of lack of personal jurisdiction, and forum non conveniens with respect to venue and jurisdiction in such state and federal courts. Application of the United Nations Convention on Contracts for the International Sale of Goods and the the Uniform Computer Information Transaction Act (UCITA) are excluded from these Terms of Use.</p><p><br></p><p>In no event shall any Dispute brought by either Party related in any way to the Site be commenced more than one (1) years after the cause of action arose. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.</p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p>Restrictions</p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p>The Parties agree that any arbitration shall be limited to the Dispute between the Parties individually. To the full extent permitted by law, (a) no arbitration shall be joined with any other proceeding; (b) there is no right or authority for any Dispute to be arbitrated on a class-action basis or to utilize class action procedures; and (c) there is no right or authority for any Dispute to be brought in a purported representative capacity on behalf of the general public or any other persons.</p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p>Exceptions to Arbitration</p><p>&nbsp; &nbsp; &nbsp;&nbsp;</p><p>The Parties agree that the following Disputes are not subject to the above provisions concerning binding arbitration: (a) any Disputes seeking to enforce or protect, or concerning the validity of, any of the intellectual property rights of a Party; (b) any Dispute related to, or arising from, allegations of theft, piracy, invasion of privacy, or unauthorized use; and (c) any claim for injunctive relief. If this provision is found to be illegal or unenforceable, then neither Party will elect to arbitrate any Dispute falling within that portion of this provision found to be illegal or unenforceable and such Dispute shall be decided by a court of competent jurisdiction within the courts listed for jurisdiction above, and the Parties agree to submit to the personal jurisdiction of that court.</p><p>&nbsp;</p><p>CORRECTIONS</p><p>&nbsp;</p><p>There may be information on the Site that contains typographical errors, inaccuracies, or omissions, including descriptions, pricing, availability, and various other information. We reserve the right to correct any errors, inaccuracies, or omissions and to change or update the information on the Site at any time, without prior notice.</p><p>&nbsp;</p><p>DISCLAIMER</p><p>&nbsp;</p><p>THE SITE IS PROVIDED ON AN AS-IS AND AS-AVAILABLE BASIS. YOU AGREE THAT YOUR USE OF THE SITE AND OUR SERVICES WILL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, WE DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SITE AND YOUR USE THEREOF, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. WE MAKE NO WARRANTIES OR REPRESENTATIONS ABOUT THE ACCURACY OR COMPLETENESS OF THE SITE’S CONTENT OR THE CONTENT OF ANY WEBSITES LINKED TO THE SITE AND WE WILL ASSUME NO LIABILITY OR RESPONSIBILITY FOR ANY (1) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT AND MATERIALS, (2) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF THE SITE, (3) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (4) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM THE SITE, (5) ANY BUGS, VIRUSES, TROJAN HORSES, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH THE SITE BY ANY THIRD PARTY, AND/OR (6) ANY ERRORS OR OMISSIONS IN ANY CONTENT AND MATERIALS OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SITE. WE DO NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SITE, ANY HYPERLINKED WEBSITE, OR ANY WEBSITE OR MOBILE APPLICATION FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND WE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND ANY THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION WHERE APPROPRIATE.</p><p>&nbsp;</p><p>LIMITATIONS OF LIABILITY</p><p>&nbsp;</p><p>IN NO EVENT WILL WE OR OUR DIRECTORS, EMPLOYEES, OR AGENTS BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, EXEMPLARY, INCIDENTAL, SPECIAL, OR PUNITIVE DAMAGES, INCLUDING LOST PROFIT, LOST REVENUE, LOSS OF DATA, OR OTHER DAMAGES ARISING FROM YOUR USE OF THE SITE, EVEN IF WE HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</p><p>&nbsp;</p><p>INDEMNIFICATION</p><p>&nbsp;</p><p>You agree to defend, indemnify, and hold us harmless, including our subsidiaries, affiliates, and all of our respective officers, agents, partners, and employees, from and against any loss, damage, liability, claim, or demand, including reasonable attorneys’ fees and expenses, made by any third party due to or arising out of: (1) use of the Site; (2) breach of these Terms of Use; (3) any breach of your representations and warranties set forth in these Terms of Use; (4) your violation of the rights of a third party, including but not limited to intellectual property rights; or (5) any overt harmful act toward any other user of the Site with whom you connected via the Site. Notwithstanding the foregoing, we reserve the right, at your expense, to assume the exclusive defense and control of any matter for which you are required to indemnify us, and you agree to cooperate, at your expense, with our defense of such claims. We will use reasonable efforts to notify you of any such claim, action, or proceeding which is subject to this indemnification upon becoming aware of it.</p><p>&nbsp;&nbsp;</p><p>USER DATA</p><p>&nbsp;</p><p>We will maintain certain data that you transmit to the Site for the purpose of managing the performance of the Site, as well as data relating to your use of the Site. Although we perform regular routine backups of data, you are solely responsible for all data that you transmit or that relates to any activity you have undertaken using the Site. You agree that we shall have no liability to you for any loss or corruption of any such data, and you hereby waive any right of action against us arising from any such loss or corruption of such data.</p><p>&nbsp;&nbsp;</p><p>ELECTRONIC COMMUNICATIONS, TRANSACTIONS, AND SIGNATURES</p><p>&nbsp;</p><p>Visiting the Site, sending us emails, and completing online forms constitute electronic communications. You consent to receive electronic communications, and you agree that all agreements, notices, disclosures, and other communications we provide to you electronically, via email and on the Site, satisfy any legal requirement that such communication be in writing. YOU HEREBY AGREE TO THE USE OF ELECTRONIC SIGNATURES, CONTRACTS, ORDERS, AND OTHER RECORDS, AND TO ELECTRONIC DELIVERY OF NOTICES, POLICIES, AND RECORDS OF TRANSACTIONS INITIATED OR COMPLETED BY US OR VIA THE SITE. You hereby waive any rights or requirements under any statutes, regulations, rules, ordinances, or other laws in any jurisdiction which require an original signature or delivery or retention of non-electronic records, or to payments or the granting of credits by any means other than electronic means.&nbsp;</p><p>&nbsp;</p><p>CALIFORNIA USERS AND RESIDENTS</p><p>&nbsp;</p><p>If any complaint with us is not satisfactorily resolved, you can contact the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834 or by telephone at (800) 952-5210 or (916) 445-1254.</p><p>&nbsp;</p><p>MISCELLANEOUS</p><p>&nbsp;</p><p>These Terms of Use and any policies or operating rules posted by us on the Site or in respect to the Site constitute the entire agreement and understanding between you and us. Our failure to exercise or enforce any right or provision of these Terms of Use shall not operate as a waiver of such right or provision. These Terms of Use operate to the fullest extent permissible by law. We may assign any or all of our rights and obligations to others at any time. We shall not be responsible or liable for any loss, damage, delay, or failure to act caused by any cause beyond our reasonable control. If any provision or part of a provision of these Terms of Use is determined to be unlawful, void, or unenforceable, that provision or part of the provision is deemed severable from these Terms of Use and does not affect the validity and enforceability of any remaining provisions. There is no joint venture, partnership, employment or agency relationship created between you and us as a result of these Terms of Use or use of the Site. You agree that these Terms of Use will not be construed against us by virtue of having drafted them. You hereby waive any and all defenses you may have based on the electronic form of these Terms of Use and the lack of signing by the parties hereto to execute these Terms of Use.</p><p>&nbsp;</p><p>CONTACT US&nbsp;</p><p>&nbsp;</p><p>In order to resolve a complaint regarding the Site or to receive further information regarding use of the Site, please contact us at:&nbsp;</p><p>&nbsp;</p><p>RoyalGraphX</p><p>Chicago, IL</p><p>United States</p><p>royalgraphx0@gmail.com</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-p"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-m",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
