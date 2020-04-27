@@ -111,7 +111,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1223.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -136,10 +136,68 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "INSTAGRAM FEED",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-1s"
+        },
+        {
+          "_params": {
+            "token": "296087152.727bfe1.2f986c3264ae4fceb56e71ceca7de69b",
+            "showTitle": false,
+            "layoutGridRadio": true,
+            "imagesPerRowGrid": "4",
+            "rows": "2",
+            "showMoreButton": true,
+            "layoutSliderRadio": false,
+            "imagesPerRowSlider": 4,
+            "spacing": "19",
+            "fullWidth": false,
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
+            "overlay": false,
+            "overlayColor": "#efefef",
+            "overlayOpacity": 0.6
+          },
+          "title": "Live Instagram Feed",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
+          "display2": "display-2",
+          "display4": "display-4",
+          "alias": "instagram-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "instagram-feed-block",
+          "_anchor": "instagram-feed-block-5",
+          "_styles": {
+            ".inst__title": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_params": {
             "showMeta": true
           },
-          "title": "LATEST VIDEOS",
-          "meta": "Last Updated - Apr 27, 2020",
+          "title": "VIDEOSHOOTS",
+          "meta": "Last Updated - Apr 22, 2020",
           "_tags": [
             "Theme"
           ],
@@ -656,7 +714,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1223.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1026,7 +1084,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1223.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1256,7 +1314,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1223.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -1514,7 +1572,7 @@
             "paddingTop": "3",
             "paddingBottom": "4",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1223.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
