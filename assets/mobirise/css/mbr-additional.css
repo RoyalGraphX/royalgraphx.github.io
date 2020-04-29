@@ -29,6 +29,18 @@
 #content5-2 .mbr-article {
   color: #fff;
 }
+#msg-box4-20 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-20 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-20 .mbr-article {
+  color: #000000;
+}
+#msg-box4-20 .mbr-article P {
+  text-align: left;
+}
 #header3-1v P {
   text-align: center;
   color: #000000;

@@ -22,9 +22,11 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 73,
+    "uniqCompNum": 71,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -135,77 +137,6 @@
           "_anchor": "content5-2"
         },
         {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": false,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trailer-no-text-1-1400x1400.png",
-              "link": "",
-              "alt": "RM | RGX",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ROYALMAG | RGX",
-          "text": "Issue #1 of the teased RoyalMag will be exclusively released and maintained here on this website. This will be the official way to view and read the magazine until physical copies are processed and released due to Covid-19 setbacks on deadlines. The magazine will be a 12 page, Bi-weekly issue style release, including a new QR code method to view and unlock special unreleased content from your favorite Chicago artists! Who's Up Next?",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-link\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a> ",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-20"
-        },
-        {
           "_params": {
             "showMeta": true
           },
@@ -258,35 +189,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-1y"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/stu-1280x720.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "YM",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "<i>\"COMING SOON\" - RoyalGraphX - COMING SOON</i><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1z"
         },
         {
           "_styles": {},
