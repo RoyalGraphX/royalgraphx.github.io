@@ -22,9 +22,11 @@
     "favicon": "",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 74,
+    "uniqCompNum": 73,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -124,7 +126,7 @@
             "overlayColor": "#2e2e2e",
             "overlayOpacity": "0.3"
           },
-          "title": "WELCOME",
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
@@ -163,7 +165,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trailer-no-text-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/trailer-no_text-1-1400x1400.png",
               "link": "",
               "alt": "RM | RGX",
               "title": ""
@@ -266,7 +268,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/stu-1-1280x720.png",
+              "src": "@PROJECT_PATH@/assets/images/stu-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -287,35 +289,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-1z"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/patchedup-1280x720.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "Patched_Up.file",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "<i>\"COMING SOON\" - &nbsp;COMING SOON - COMING SOON</i><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-21"
         },
         {
           "_styles": {},
