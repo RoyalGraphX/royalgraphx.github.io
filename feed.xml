@@ -65,5 +65,23 @@
           <link>https://royalgraphx.live/</link>
           <guid>https://royalgraphx.live/run-x.m4a</guid>
         </item>
+      <item>
+        <title>Video Test</title>
+        <description>Test</description>
+        <itunes:summary>Test</itunes:summary>
+        <itunes:subtitle>Test</itunes:subtitle>
+        <itunesu:category itunesu:code="112" />
+        <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/Main.mp4" length="12842513" type="video/mp4"/>
+        <itunes:author>RoyalGraphX</itunes:author>
+        <itunes:explicit>yes</itunes:explicit>
+        <itunes:block>No</itunes:block>
+        <itunes:duration>00:00:15</itunes:duration>
+        <itunes:episode>3</itunes:episode>
+        <itunes:episodeType>full</itunes:episodeType>
+        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
+        <pubDate>Thu, 30 April 2020 5:15:00 AM CST</pubDate>
+        <link>https://royalgraphx.live/</link>
+        <guid>https://royalgraphx.live/Main.mp4</guid>
+      </item>
     </channel>
 </rss>
