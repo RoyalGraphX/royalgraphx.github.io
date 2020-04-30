@@ -51,8 +51,7 @@
         Kid Cudi & Kanye West - Can’t Look In My Eyes (Unreleased)
         Tyler, the Creator - Colossus (Original Beat)</itunes:summary>
         <itunes:subtitle>Tracklist in the Summary tab.</itunes:subtitle>
-        <itunesu:category itunesu:code="112" />
-        <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/royalradio/ep2.mp3" length="83585748" type="audio/mpeg"/>
+        <itunesu:category itunesu:code="112"/> <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/royalradio/ep2.mp3" length="83585748" type="audio/mpeg"/>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:block>No</itunes:block>
