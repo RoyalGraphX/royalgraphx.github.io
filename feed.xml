@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
     <channel>
-        <link>https://royalgraphx0.github.io</link>
+        <link>https://royalgraphx.live</link>
         <language>en-us</language>
-        <copyright>&#xA9; Copyright 2019 RoyalGraphX - All Rights Reserved</copyright>
+        <copyright>&#xA9; Copyright 2020 RoyalGraphX - All Rights Reserved</copyright>
         <webMaster>royalgraphx0@gmail.com (Alan)</webMaster>
         <managingEditor>royalgraphx0@gmail.com (Alan)</managingEditor>
         <image>
-        <url>https://royalgraphx0.github.io/podcast.jpg</url>
-        <title>The Basement</title>
-        <link>https://royalgraphx0.github.io</link>
+        <url>https://royalgraphx.live/podcast.jpg</url>
+        <title>RoyaRadio</title>
+        <link>https://royalgraphx.live</link>
         </image>
         <itunes:owner>
         <itunes:name>RoyalGraphX</itunes:name>
@@ -21,21 +21,21 @@
         <itunes:keywords></itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:image href="https://royalgraphx0.github.io/podcast.jpg" />
-        <atom:link href="https://royalgraphx0.github.io/feed.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://royalgraphx.live/feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
-        <title>The Basement</title>
+        <title>RoyalRadio</title>
         <itunes:author>RoyalGraphX</itunes:author>
-        <description>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</description>
-        <itunes:summary>Welcome to The Basement. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:summary>
+        <description>Welcome to RoyalRadio. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</description>
+        <itunes:summary>Welcome to RoyalRadio. A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:summary>
         <itunes:subtitle>420 Powered Conversations.</itunes:subtitle>
         <lastBuildDate>Wed, 4 December 2019 12:00:00 AM CST</lastBuildDate>
     <item>
         <title>Space Lion</title>
-        <description>Welcome to Episode 1 of The Basement Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, right from the get go we get a song, a previous version of 'ASTROTHUNDER', Later greeted by an extended version of 'Maria I'm Drunk', and finally the rapper Black Kodak had Travis orignally on 'Roll in Peace' and we appreciate the lost verse of Travis Scott, and we would like you to enjoy today's episode just as much. For the final song, we are introduced to Tinashe on Hot Sauce [V2], a leak for another Travis Scott adventure. Stay tuned for more!</description>
-        <itunes:summary>Welcome to Episode 1 of The Basement Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, right from the get go we get a song, a previous version of 'ASTROTHUNDER', Later greeted by an extended version of 'Maria I'm Drunk', and finally the rapper Black Kodak had Travis orignally on 'Roll in Peace' and we appreciate the lost verse of Travis Scott, and we would like you to enjoy today's episode just as much. For the final song, we are introduced to Tinashe on Hot Sauce [V2], a leak for another Travis Scott adventure. Stay tuned for more!</itunes:summary>
+        <description>Welcome to Episode 1 of the RoyalRadio Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, right from the get go we get a song, a previous version of 'ASTROTHUNDER', Later greeted by an extended version of 'Maria I'm Drunk', and finally the rapper Black Kodak had Travis orignally on 'Roll in Peace' and we appreciate the lost verse of Travis Scott, and we would like you to enjoy today's episode just as much. For the final song, we are introduced to Tinashe on Hot Sauce [V2], a leak for another Travis Scott adventure. Stay tuned for more!</description>
+        <itunes:summary>Welcome to Episode 1 of the RoyalRadio Podcast. Today we are joined by Co-hosts Alan and Kevin as we invite our longtime friend, Enrique to the set. What resulted is an almost 45 minute long audio experience filled with dumb jokes, and explicit profanity. Along with speech impaired by herbel essence, you are welcomed to enjoy some of this episodes favorite songs, right from the get go we get a song, a previous version of 'ASTROTHUNDER', Later greeted by an extended version of 'Maria I'm Drunk', and finally the rapper Black Kodak had Travis orignally on 'Roll in Peace' and we appreciate the lost verse of Travis Scott, and we would like you to enjoy today's episode just as much. For the final song, we are introduced to Tinashe on Hot Sauce [V2], a leak for another Travis Scott adventure. Stay tuned for more!</itunes:summary>
         <itunes:subtitle>Episode 1 Shenanigans</itunes:subtitle>
         <itunesu:category itunesu:code="112" />
-        <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/basement_podcasts/ep1.mp3" length="49493178" type="audio/mpeg"/>
+        <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/basement_podcasts/ep1.mp3" length="49493178" type="audio/mpeg"/>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:block>No</itunes:block>
@@ -43,27 +43,9 @@
         <itunes:episode>1</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
         <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
-        <link>https://royalgraphx0.github.io/</link>
-        <guid>https://royalgraphx0.github.io/basement_podcasts/ep1.mp3</guid>
-      </item>
-    <item>
-        <title>Space Lion (Trailer)</title>
-        <description>Welcome to Episode 1 of The Basement Podcast!</description>
-        <itunes:summary>Welcome to Episode 1 of The Basement Podcast!</itunes:summary>
-        <itunes:subtitle>Episode 1 Trailer</itunes:subtitle>
-        <itunesu:category itunesu:code="112" />
-        <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/basement_podcasts/ep1-draft.mp3" length="1016422" type="audio/mpeg"/>
-        <itunes:author>RoyalGraphX</itunes:author>
-        <itunes:explicit>yes</itunes:explicit>
-        <itunes:block>No</itunes:block>
-        <itunes:duration>00:00:33</itunes:duration>
-        <itunes:episode>1</itunes:episode>
-        <itunes:episodeType>trailer</itunes:episodeType>
-        <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
-        <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
-        <link>https://royalgraphx0.github.io/</link>
-        <guid>https://royalgraphx0.github.io/basement_podcasts/ep1-draft.mp3</guid>
+        <itunes:image href="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/RoyalRadioE1.png"/>
+        <link>https://royalgraphx.live/</link>
+        <guid>https://royalgraphx.live/basement_podcasts/ep1.mp3</guid>
       </item>
       <item>
           <title>Run Up On Me</title>
@@ -71,7 +53,7 @@
           <itunes:summary>XXXTentacion</itunes:summary>
           <itunes:subtitle>XXXTentacion</itunes:subtitle>
           <itunesu:category itunesu:code="112" />
-          <enclosure url="https://raw.githubusercontent.com/royalgraphx0/royalgraphx0.github.io/master/run-x.m4a" length="3257453" type="audio/mp4"/>
+          <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/run-x.m4a" length="3257453" type="audio/mp4"/>
           <itunes:author>RoyalGraphX</itunes:author>
           <itunes:explicit>yes</itunes:explicit>
           <itunes:block>No</itunes:block>
@@ -80,8 +62,8 @@
           <itunes:episodeType>full</itunes:episodeType>
           <itunes:image href="https://pbcdn1.podbean.com/imglogo/image-logo/6738017/5de72a5b10c97.png"/>
           <pubDate>Sun, 8 December 2019 10:45:00 PM CST</pubDate>
-          <link>https://royalgraphx0.github.io/</link>
-          <guid>https://royalgraphx0.github.io/run-x.m4a</guid>
+          <link>https://royalgraphx.live/</link>
+          <guid>https://royalgraphx.live/run-x.m4a</guid>
         </item>
     </channel>
 </rss>

@@ -24,7 +24,9 @@
     "google-analytics": "",
     "uniqCompNum": 74,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -163,7 +165,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trailer-no-text-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/trailer-no_text-1-1400x1400.png",
               "link": "",
               "alt": "RM | RGX",
               "title": ""
