@@ -32,7 +32,24 @@
     <item>
         <title>EPISODE 1</title>
         <description>Welcome to Episode 1 of the RoyalRadio Podcast.</description>
-        <itunes:summary></itunes:summary>
+        <itunes:summary>Cashmere Cat - Europa Pools [Demo]
+        Travis Scott - The Ends [Demo]
+        Travis Scott - In My Head [Demo - Version 2]
+        Tyler, the Creator - OKRA
+        Drake - Preach [FT. PARTYNEXTDOOR]
+        Drake - Wednesday Night Interlude [FT. PARTYNEXTDOOR]
+        Rihanna - Yeah I Said It
+        Frank Ocean - Nights [Demo]
+        Frank Ocean - Nights [Instrumental Outro]
+        Frank Ocean - Cayendo [Acoustic]
+        Covet - Shibuya (FT. San Holo)
+        Tyler, the Creator - Seven
+        Tyler, the Creator - Odd Toddlers (FT. Kasey Veggies)
+        A$AP Rocky - A$AP Forever (Original Mix + Extended Outro)
+        Moby - Porcelain
+        Kanye West - Facts (OG Beat)
+        Kid Cudi & Kanye West - Can’t Look In My Eyes (Unreleased)
+        Tyler, the Creator - Colossus (Original Beat)</itunes:summary>
         <itunes:subtitle>Tracklist in the Summary tab.</itunes:subtitle>
         <itunesu:category itunesu:code="112" />
         <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/royalradio/ep2.mp3" length="83585748" type="audio/mpeg"/>
@@ -47,6 +64,7 @@
         <link>https://royalgraphx.live/</link>
         <guid>https://royalgraphx.live/royalradio/ep2.mp3</guid>
       </item>
+    <item>
         <title>Exclusive Preview</title>
         <description>Needed test footage, enjoy this teaser.</description>
         <itunes:summary></itunes:summary>
