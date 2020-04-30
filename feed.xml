@@ -8,7 +8,7 @@
         <managingEditor>royalgraphx0@gmail.com (Alan)</managingEditor>
         <image>
         <url>https://royalgraphx.live/podcast.jpg</url>
-        <title>RoyaRadio</title>
+        <title>RoyalRadio</title>
         <link>https://royalgraphx.live</link>
         </image>
         <itunes:owner>
@@ -20,7 +20,7 @@
         </itunes:category>
         <itunes:keywords></itunes:keywords>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:image href="https://royalgraphx0.github.io/podcast.jpg" />
+        <itunes:image href="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/podcast.jpg" />
         <atom:link href="https://royalgraphx.live/feed.xml" rel="self" type="application/rss+xml" />
         <pubDate>Wed, 4 December 2019 12:00:00 AM CST</pubDate>
         <title>RoyalRadio</title>
