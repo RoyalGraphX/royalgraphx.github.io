@@ -26,32 +26,33 @@
         <title>RoyalRadio</title>
         <itunes:author>RoyalGraphX</itunes:author>
         <description>Welcome to RoyalRadio.</description>
-        <itunes:summary>A podcast in which co-hosts Alan and Kevin invite a series of friends to enjoy some herbal essence, With a bit of explicit content, not to mention the exclusive tracks that get played live, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good.</itunes:summary>
+        <itunes:summary>A podcast in which co-hosts Alan, Kevin, and Alex invite a series of friends to enjoy some herbal essence, With a bit of explicit content, not to mention the exclusive tracks that get played live, this podcast never falls short from funny altered thoughts to bad jokes so bad, they're good. If you want your music featured, please visit RoyalGraphX.live and submit your music to see it on an upcoming episode!</itunes:summary>
         <itunes:subtitle>420 Powered Conversations and Music.</itunes:subtitle>
-        <lastBuildDate>Thu, 30 April 2020 12:20:00 PM CST</lastBuildDate>
+        <lastBuildDate>Thu, 4 May 2020 12:20:00 PM CST</lastBuildDate>
     <item>
         <title>EPISODE 1</title>
         <description>Welcome to Episode 1 of the RoyalRadio Podcast.</description>
-        <itunes:summary>Cashmere Cat - Europa Pools [Demo]
-        Travis Scott - The Ends [Demo]
-        Travis Scott - In My Head [Demo - Version 2]
-        Tyler, the Creator - OKRA
-        Drake - Preach [FT. PARTYNEXTDOOR]
-        Drake - Wednesday Night Interlude [FT. PARTYNEXTDOOR]
-        Rihanna - Yeah I Said It
-        Frank Ocean - Nights [Demo]
-        Frank Ocean - Nights [Instrumental Outro]
-        Frank Ocean - Cayendo [Acoustic]
-        Covet - Shibuya (FT. San Holo)
-        Tyler, the Creator - Seven
-        Tyler, the Creator - Odd Toddlers (FT. Kasey Veggies)
-        A$AP Rocky - A$AP Forever (Original Mix + Extended Outro)
-        Moby - Porcelain
-        Kanye West - Facts (OG Beat)
-        Kid Cudi / Kanye West - Can’t Look In My Eyes (Unreleased)
-        Tyler, the Creator - Colossus (Original Beat)</itunes:summary>
+        <itunes:summary>
+Lil Wayne - Bastard (Satans Kid)
+Travis Scott - The Ends [Demo]
+Travis Scott - In My Head [Demo - Version 2]
+Tyler, the Creator - OKRA
+Drake - Preach [FT. PARTYNEXTDOOR]
+Drake - Wednesday Night Interlude [FT. PARTYNEXTDOOR]
+Rihanna - Yeah I Said It
+Frank Ocean - Nights [Demo]
+Frank Ocean - Nights [Instrumental Outro]
+Frank Ocean - Cayendo [Acoustic]
+Covet - Shibuya (FT. San Holo)
+Tyler, the Creator - Seven
+Tyler, the Creator - Odd Toddlers (FT. Kasey Veggies)
+A$AP Rocky - A$AP Forever (Original Mix + Extended Outro)
+Moby - Porcelain
+Kanye West - Facts (OG Beat)
+Kid Cudi / Kanye West - Can’t Look In My Eyes (Unreleased)
+Tyler, the Creator - Colossus (Original Beat)</itunes:summary>
         <itunes:subtitle>Tracklist in the Summary tab.</itunes:subtitle>
-        <itunesu:category itunesu:code="112"/> <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/royalradio/ep2.mp3" length="83585748" type="audio/mpeg"/>
+        <itunesu:category itunesu:code="112"/> <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/royalradio/ep2.mp3" length="86552500" type="audio/mpeg"/>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
         <itunes:block>No</itunes:block>
@@ -72,7 +73,7 @@
         <enclosure url="https://raw.githubusercontent.com/royalgraphx/royalgraphx.github.io/master/Main.mp4" length="12842513" type="video/mp4"/>
         <itunes:author>RoyalGraphX</itunes:author>
         <itunes:explicit>yes</itunes:explicit>
-        <itunes:block>No</itunes:block>
+        <itunes:block>yes</itunes:block>
         <itunes:duration>00:00:15</itunes:duration>
         <itunes:episode>3</itunes:episode>
         <itunes:episodeType>full</itunes:episodeType>
