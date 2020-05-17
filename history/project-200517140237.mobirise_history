@@ -24,7 +24,9 @@
     "google-analytics": "",
     "uniqCompNum": 74,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -235,7 +237,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trailer-no-text-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/trailer-no_text-1-1400x1400.png",
               "link": "",
               "alt": "RM | RGX",
               "title": ""
@@ -372,17 +374,17 @@
               "width": 1400,
               "link": "",
               "alt": "Patched_Up.file",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=oKISeSjWiQc",
+              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
               "autoplay": false,
-              "loop": "on",
-              "active": true
+              "loop": "on"
             }
           },
-          "text": "<i>\"</i>ZayDtm - Patched Up ft. Eng Linkz<i>\" - ZayDoTooMuch -&nbsp;May 15, 2020</i><br>",
+          "text": "<i>\"COMING SOON\" - &nbsp;COMING SOON - COMING SOON</i><br>",
           "_tags": [
             "Theme"
           ],
