@@ -19,12 +19,14 @@
     "witsec-white-label": "on",
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
+    "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-128x124.png",
     "noImageResize": "",
     "google-analytics": "",
     "uniqCompNum": 74,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -76,7 +78,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "http://royalgraphx.live/",
+              "link": "http://royalgraphx.live/feed.xml",
               "title": "",
               "linkInNewWindow": false
             }
@@ -164,7 +166,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/royalradioteaser3-4-1400x975.png",
+              "src": "@PROJECT_PATH@/assets/images/royalradioteaser-1-1400x975.png",
               "link": "",
               "alt": "RR",
               "title": ""
@@ -235,7 +237,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/trailer-no-text-1-1400x1400.png",
+              "src": "@PROJECT_PATH@/assets/images/trailer-no_text-1-1400x1400.png",
               "link": "",
               "alt": "RM | RGX",
               "title": ""
@@ -926,7 +928,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "http://royalgraphx.live/",
+              "link": "http://royalgraphx.live/feed.xml",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1068,7 +1070,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "http://royalgraphx.live/",
+              "link": "http://royalgraphx.live/feed.xml",
               "title": "",
               "linkInNewWindow": false
             }
@@ -1228,7 +1230,7 @@
               "class": "",
               "height": 128,
               "alt": "RGX",
-              "link": "http://royalgraphx.live/",
+              "link": "http://royalgraphx.live/feed.xml",
               "title": "",
               "linkInNewWindow": false
             }
