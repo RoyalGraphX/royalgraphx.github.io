@@ -144,7 +144,7 @@
             "showButtons": true,
             "inverse": false,
             "imageSize": "34",
-            "paddingTop": "2",
+            "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
