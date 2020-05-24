@@ -41,6 +41,18 @@
 #msg-box4-22 .mbr-article P {
   text-align: left;
 }
+#msg-box4-22 .mbr-header__text {
+  color: #000000;
+}
+#msg-box4-22 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-22 .mbr-article {
+  color: #000000;
+}
+#msg-box4-22 .mbr-article P {
+  text-align: left;
+}
 #msg-box4-20 .mbr-header__text {
   color: #000000;
 }
