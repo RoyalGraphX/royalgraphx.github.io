@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RGX2",
-    "currentPage": "SwitchPWN.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -22,7 +22,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "",
-    "uniqCompNum": 74,
+    "uniqCompNum": 79,
     "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
     "publishType": "local",
@@ -2133,6 +2133,26 @@
         },
         {
           "_params": {
+            "showMeta": false
+          },
+          "title": "SWITCH PAYLOADER",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-26"
+        },
+        {
+          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -2202,26 +2222,6 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-25"
-        },
-        {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "SWITCH PAYLOADER",
-          "meta": "Last Updated - Apr 14, 2020",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_styles": {
-            "P": {
-              "text-align": "center"
-            },
-            "H3": {
-              "text-align": "center"
-            }
-          },
-          "_anchor": "header3-26"
         }
       ]
     }

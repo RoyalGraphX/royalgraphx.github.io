@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  <link rel="shortcut icon" href="assets/images/logo-kopf-alt-128x124.png" type="image/x-icon">
+  <meta name="description" content="An Updated Switch Payloader for HAL-001 Switch models with support for the latest Hekate payloads and legacy payloads, as well as SX OS and other third party payloads.">
+
+  <title>SWITCH PAYLOADER | RGX</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:700,400&subset=cyrillic,latin,greek,vietnamese">
+  <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
+  <link rel="stylesheet" href="assets/mobirise/css/style.css">
+  <link rel="stylesheet" href="switch_style.css">
+  <link rel="stylesheet" href="assets/dropdown-menu/style.css">
+  <link rel="stylesheet" href="assets/mobirise/css/mbr-additional.css" type="text/css">
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+
+</head>
+<body>
+  <section id="dropdown-menu-23" data-rv-view="62">
+
+    <nav class="navbar navbar-dropdown transparent navbar-fixed-top bg-color">
+
+        <div class="container">
+
+            <div class="navbar-brand">
+                <a href="http://royalgraphx.live/" class="navbar-logo"><img src="assets/images/logo-kopf-alt-132x128.png" alt="RGX"></a>
+
+            </div>
+
+            <button class="navbar-toggler pull-xs-right hidden-md-up" type="button" data-toggle="collapse" data-target="#exCollapsingNavbar">
+                <div class="hamburger-icon"></div>
+            </button>
+
+            <ul class="nav-dropdown collapse pull-xs-right navbar-toggleable-sm nav navbar-nav" id="exCollapsingNavbar"><li class="nav-item"><a class="nav-link link" href="index.html">HOME</a></li><li class="nav-item"><a class="nav-link link" href="blog.html">BLOG</a></li><li class="nav-item dropdown"><a class="nav-link link dropdown-toggle" data-toggle="dropdown-submenu" href="https://mobirise.com/" aria-expanded="false">SERVICES</a><div class="dropdown-menu"><a class="dropdown-item" href="page3.html">Photoshoots</a><a class="dropdown-item" href="index.html#header3-1v">Videoshoots</a><a class="dropdown-item" href="https://royalgraphx.live/royalrepo">RoyalRepo</a></div></li><li class="nav-item"><a class="nav-link link" href="index.html#form1-j" aria-expanded="false">CONTACT</a></li></ul>
+
+        </div>
+
+    </nav>
+
+</section>
+
+<section class="mbr-section mbr-section--relative mbr-section--fixed-size mbr-parallax-background mbr-after-navbar" id="content5-25" data-rv-view="68" style="background-image: url(assets/images/btm2-1-2000x1333.png);">
+    <div class="mbr-overlay" style="opacity: 0.3; background-color: rgb(46, 46, 46);"></div>
+    <div class="mbr-section__container container mbr-section__container--isolated" style="padding-top: 93px; padding-bottom: 124px;">
+        <div class="mbr-header mbr-header--wysiwyg row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h3 class="mbr-header__text"><span style="font-weight: normal;">WELCOME</span></h3>
+
+            </div>
+        </div>
+    </div>
+
+
+</section>
+
+<section class="mbr-section" id="header3-26" data-rv-view="64">
+    <div class="mbr-section__container container mbr-section__container--isolated">
+        <div class="mbr-header mbr-header--wysiwyg row">
+            <div class="col-sm-8 col-sm-offset-2">
+                <h3 class="mbr-header__text">SWITCH PAYLOADER</h3>
+
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="row margin-top-md" id="infodiv">
+  <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+    <div class="alert alert-info" role="alert">
+      <p><strong id="labelInstructions">This assumes you know what you're doing. I will not be providing any support for use of this tool.</strong></p>
+      <ul>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+      <h1 id="h1SetupDelivery">Setup Payload Delivery</h1>
+
+      <form id="mainForm">
+        <div class="row">
+          <div class="col-xs-6">
+            <h4 id="h4SelectPayload">Select Payload:</h4>
+          </div>
+
+          <div class="col-xs-6">
+            <select class="pull-right"    id="payloadSelect" onchange="onSelectChange()">
+              <option value="hekate"      id="optionhekate"  >CTCaer's Hekate Mod v5.2.0</option>
+              <option value="hekate5"       id="optionhekate5" >CTCaer's Hekate Mod v5.0.0</option>
+              <option value="uploaded"    id="optionUpload"  >Upload payload</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="row" id="uploadContainer" style="display: none">
+          <div class="col-xs-12">
+            <input style="float: right" type="file" id="payloadUpload" accept=".bin"/>
+          </div>
+        </div>
+        <div class="row divider-line"></div>
+
+        <div class="row margin-top-md">
+          <div class="col-xs-10">
+            <h4 id="h4GetByteArray">Get payload byte array (don't sploit)</h4>
+          </div>
+          <div class="col-xs-2">
+            <input class="pull-right" type="checkbox" name="shouldDebug" id="shouldDebug">
+          </div>
+        </div>
+        <div class="row divider-line"></div>
+      </form>
+
+      <div class="row margin-top-md">
+        <div class="col-xs-6 col-xs-offset-6 col-md-4 col-md-offset-8">
+          <button class="btn btn-primary btn-lg btn-block" id="goButton">Deliver Payload!</button>
+        </div>
+      </div>
+
+  </div>
+</div>
+
+
+<div class="row">
+  <div class="col-md-8 col-md-offset-2 col-lg-6 col-lg-offset-3">
+      <h3 id="h3Log">Log:</h3>
+      <div id="output"></div>
+      <button class="btn btn-primary pull-right margin-top-md" id="clearlogsbutton" onclick="clearLog();">Clear Logs</button><br><br>
+  </div>
+</div>
+<script src="payloads.min.js"></script>
+<script src="main.js"></script>
+
+<br>
+<br>
+<br>
+<footer class="mbr-section mbr-section--relative mbr-section--fixed-size" id="footer1-24" data-rv-view="66" style="background-color: rgb(0, 0, 0);">
+
+    <div class="mbr-section__container container">
+        <div class="mbr-footer mbr-footer--wysiwyg row" style="padding-top: 36.9px; padding-bottom: 36.9px;">
+            <div class="col-sm-12">
+                <p class="mbr-footer__copyright">Copyright (c) 2020 RoyalGraphX. <a href="tos.html" class="text-gray">Terms of Use</a>  | <a href="privacy_policy.html" class="text-gray">Privacy Policy</a></p>
+            </div>
+        </div>
+    </div>
+</footer>
+
+
+  <script src="assets/web/assets/jquery/jquery.min.js"></script>
+  <script src="assets/bootstrap/js/bootstrap.min.js"></script>
+  <script src="assets/smooth-scroll/smooth-scroll.js"></script>
+  <script src="assets/jarallax/jarallax.js"></script>
+  <script src="assets/mobirise/js/script.js"></script>
+  <script src="assets/dropdown-menu/script.js"></script>
+
+
+</body>
+</html>
