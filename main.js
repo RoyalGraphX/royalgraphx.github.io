@@ -144,20 +144,65 @@ document.getElementById("goButton").addEventListener("click", async () => {
   }
 
   let payload;
-  if (payloadType === "hekate") {
-    payload = hekate;
+  if (payloadType === "hekate520") {
+    payload = hekate520;
 
-  } else if (payloadType === "hekate5") {
-    payload = hekate5;
+  } else if (payloadType === "hekate500") {
+    payload = hekate500;
 
-  } else if (payloadType === "sx os") {
-    payload = sx;
+  } else if (payloadType === "hekate521") {
+    payload = hekate521;
 
-  } else if (payloadType === "ReiNX") {
-    payload = ReiNX;
+  } else if (payloadType === "hekate514") {
+    payload = hekate514;
 
-  } else if (payloadType === "briccmii") {
-    payload = briccmii;
+  } else if (payloadType === "hekate513") {
+    payload = hekate513;
+
+  } else if (payloadType === "hekate512") {
+    payload = hekate512;
+
+  } else if (payloadType === "hekate511") {
+    payload = hekate511;
+
+  } else if (payloadType === "hekate510") {
+    payload = hekate510;
+
+  } else if (payloadType === "hekate502") {
+    payload = hekate502;
+
+  } else if (payloadType === "hekate501") {
+    payload = hekate501;
+
+  } else if (payloadType === "hekate4101") {
+    payload = hekate4101;
+
+  } else if (payloadType === "hekate4100") {
+    payload = hekate4100;
+
+  } else if (payloadType === "hekate491") {
+    payload = hekate491;
+
+  } else if (payloadType === "hekate490") {
+    payload = hekate490;
+
+  } else if (payloadType === "hekate480") {
+    payload = hekate480;
+
+  } else if (payloadType === "hekate460") {
+    payload = hekate460;
+
+  } else if (payloadType === "hekate450") {
+    payload = hekate450;
+
+  } else if (payloadType === "hekate420") {
+    payload = hekate420;
+
+  } else if (payloadType === "hekate410") {
+    payload = hekate410;
+
+  } else if (payloadType === "hekate400") {
+    payload = hekate400;
 
   } else if (payloadType === "uploaded") {
     const file = document.getElementById("payloadUpload").files[0];
