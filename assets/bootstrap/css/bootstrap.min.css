@@ -5656,7 +5656,6 @@ a.thumbnail.active {
   border-style: none solid solid none;
   border-width: 0 1px 1px 0;
   bottom: -8px;
-  content: "";
   display: block;
   left: 50px;
   position: absolute;
