@@ -24,7 +24,9 @@
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
     "uniqCompNum": 81,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -677,7 +679,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/101813836-718438105570901-5856919226640580539-n-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101813836_718438105570901_5856919226640580539_n-1280x720.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "https://www.youtube.com/watch?v=JXBm_fKMrfs",
@@ -1957,7 +1959,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-4.39.24-am-598x503.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.39.24%20am-598x503.png",
               "link": "",
               "alt": "what a cluck",
               "title": ""
@@ -2048,7 +2050,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-4.54.43-am-751x511.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.54.43%20am-751x511.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2101,7 +2103,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.53.28-am-533x394.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.53.28%20am-533x394.png",
               "link": "",
               "alt": "what a cluck",
               "title": ""
@@ -2148,7 +2150,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.18.52-am-1100x373.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.18.52%20am-1100x373.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -2189,7 +2191,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.26.06-am-1321x520.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.26.06%20am-1321x520.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
