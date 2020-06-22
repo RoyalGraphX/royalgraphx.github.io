@@ -22,9 +22,11 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 81,
+    "uniqCompNum": 80,
     "versionPublish": "4.10.7",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -140,7 +142,7 @@
             "showMeta": true
           },
           "title": "UPCOMING NEWS + FEATURED LINKS",
-          "meta": "Last Updated - Jun 22, 2020",
+          "meta": "Last Updated - Jun 9, 2020",
           "_tags": [
             "Theme"
           ],
@@ -155,69 +157,6 @@
             }
           },
           "_anchor": "header3-25"
-        },
-        {
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#2e2e2e"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#2e2e2e"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "media": {
-            "image": {
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/14-1-1400x975.png",
-              "link": "",
-              "alt": "i14",
-              "title": "",
-              "active": true
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "class": "mbr-figure__img",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "title": "iOS 14 APPLESEED | RGX",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>This is a special version of the iOS 14 Dev Beta that was from the special AppleSeed servers of iOS. Install below!</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://royalgraphx.live/beta/iOS_iPadOS_14_AppleSeed_Profile.mobileconfig\" data-toolbar=\"-mbrBtnMove\">INSTALL PROFILE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box5",
-          "_anchor": "msg-box5-28"
         },
         {
           "_inherit": "msg-box5",
@@ -677,7 +616,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/101813836-718438105570901-5856919226640580539-n-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101813836_718438105570901_5856919226640580539_n-1280x720.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "https://www.youtube.com/watch?v=JXBm_fKMrfs",
@@ -1957,7 +1896,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-4.39.24-am-598x503.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.39.24%20am-598x503.png",
               "link": "",
               "alt": "what a cluck",
               "title": ""
@@ -2048,7 +1987,7 @@
             "image": {
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-4.54.43-am-751x511.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.54.43%20am-751x511.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -2101,7 +2040,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.53.28-am-533x394.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.53.28%20am-533x394.png",
               "link": "",
               "alt": "what a cluck",
               "title": ""
@@ -2148,7 +2087,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.18.52-am-1100x373.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.18.52%20am-1100x373.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
@@ -2189,7 +2128,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/screen-shot-2020-05-27-at-5.26.06-am-1321x520.png",
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.26.06%20am-1321x520.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",

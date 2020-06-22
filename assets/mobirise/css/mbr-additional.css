@@ -36,6 +36,15 @@
 #header3-25 H3 {
   text-align: center;
 }
+#msg-box5-28 .mbr-header__text {
+  color: #2e2e2e;
+}
+#msg-box5-28 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-28 .mbr-article {
+  color: #2e2e2e;
+}
 #msg-box4-22 .mbr-header__text {
   color: #000000;
 }
