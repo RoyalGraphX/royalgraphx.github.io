@@ -17,19 +17,16 @@
     "versionFirst": "4.10.7",
     "siteFonts": [],
     "witsec-white-label": "on",
-    "siteUrl": false,
+    "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 82,
-    "versionPublish": "4.12.4",
+    "uniqCompNum": 81,
+    "versionPublish": "4.10.7",
     "screenshot": "screenshot.png",
-    "imageResize": true,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "cookiesAlert": false,
-    "gdpr": false
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io"
   },
   "pages": {
     "index.html": {
@@ -73,7 +70,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -162,6 +159,69 @@
           "_anchor": "header3-25"
         },
         {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#2e2e2e"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#2e2e2e"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": true,
+            "inverse": false,
+            "imageSize": "34",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/14-1-1400x975.png",
+              "link": "",
+              "alt": "i14",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "iOS 14 APPLESEED | RGX",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>This is a special version of the iOS 14 Dev Beta that was from the special AppleSeed servers of iOS. Install below!</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://royalgraphx.live/beta/iOS_iPadOS_14_AppleSeed_Profile.mobileconfig\" data-toolbar=\"-mbrBtnMove\">INSTALL PROFILE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-28"
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -208,7 +268,7 @@
             }
           },
           "title": "SWITCH PAYLOADER | RGX",
-          "text": "If you're apart of the Switch hacking community, you can use this subpage as an online payloader that supports Hekate 4.0.0 -&gt; 5.2.1, with added support for Android and SX OS payloads being added in the near future. This page is intended for those who know what they're doing, I won't be providing support for these kinds of things as it varies too much. This is my personal payloader that I use almost daily, and i'll be keeping it up to date.",
+          "text": "If you're apart of the Switch hacking community, you can use this subpage as an online payloader that supports Hekate 4.0.0 -&gt; 5.2.1, with added support for Android and SX OS payloads being added in the near future. This page is intended for those who know what they're doing, I won't be providing support for these kinds of things. This is my personal payloader that I use almost daily as I work on improving the homebrew scene.",
           "_tags": [
             "Theme"
           ],
@@ -468,33 +528,66 @@
           "_anchor": "header3-1v"
         },
         {
+          "_styles": {
+            "I": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/the-return-bw-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "THERETURN",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=mGgHj2mMIGw",
+              "autoplay": false,
+              "loop": "on"
+            }
+          },
+          "text": "<i>\"COMING SOON\" - &nbsp;Broken Without Fixed - COMING SOON</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-1y"
+        },
+        {
           "_styles": {},
           "_params": {
             "showText": true
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/southside-1280x720.png",
+              "src": "@PROJECT_PATH@/assets/images/stu-1-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
-              "alt": "",
-              "title": ""
+              "alt": "YM",
+              "title": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=eGPNRq3y5QY",
+              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
               "autoplay": false,
-              "loop": false,
-              "active": true
+              "loop": "on"
             }
           },
-          "text": "<i>\"SOUTHSIDE\" - ZayDoTooMuch - Jul 24, 2020</i>",
+          "text": "<i>\"COMING SOON\" - RoyalGraphX - COMING SOON</i><br>",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-26"
+          "_anchor": "video2-1z"
         },
         {
           "_styles": {},
@@ -508,17 +601,15 @@
               "width": 1400,
               "link": "",
               "alt": "",
-              "title": ""
+              "title": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=mgdOk4-hW4g",
-              "autoplay": false,
-              "loop": false,
-              "active": true
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"Calling\" - DAMEION - Jul 1, 2020</i>",
+          "text": "<i>\"COMING SOON\" - DAMEION - COMING SOON</i>",
           "_tags": [
             "Theme"
           ],
@@ -532,24 +623,25 @@
           },
           "media": {
             "image": {
-              "src": "images/slide3.jpg",
+              "src": "@PROJECT_PATH@/assets/images/southside-1280x720.png",
               "class": "mbr-figure__img",
-              "width": 1400
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
             },
             "video": {
-              "active": true,
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=94ujpK2ucGY",
-              "autoplay": false,
-              "loop": false
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "Mortal Kombat 11 - Mini Edit, Test VIdeo - Jun 21, 2020 (Not Finished)",
+          "text": "<i>\"COMING SOON\" - ZayDoTooMuch - Coming Soon</i>",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-29"
+          "_anchor": "video2-26"
         },
         {
           "_styles": {},
@@ -587,7 +679,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/101813836-718438105570901-5856919226640580539-n-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101813836_718438105570901_5856919226640580539_n-1280x720.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "https://www.youtube.com/watch?v=JXBm_fKMrfs",
@@ -1168,7 +1260,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1310,7 +1402,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1470,7 +1562,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1713,6 +1805,472 @@
         }
       ]
     },
+    "blog.html": {
+      "settings": {
+        "meta_descr": "A write-up of the upcoming [Insert whatever name the tool was] that claims to allow you to retrieve sensitive information from locked devices, not using a bruteforce method or 0day,  how is this possible? Simple. It's not.",
+        "title": "J_DUFFY01 | RGX",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "3",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/btm2-1-2000x1333.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#2e2e2e",
+            "overlayOpacity": "0.3"
+          },
+          "title": "<span style=\"font-weight: normal;\">WELCOME</span>",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-25"
+        },
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "http://royalgraphx.live/",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-22"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "J_DUFFY01 AND THE MYSTERIOUS TOOL",
+          "meta": "Last Updated - May 27, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-26"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.39.24%20am-598x503.png",
+              "link": "",
+              "alt": "what a cluck",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "AS I WRITE THIS...",
+          "text": "<p>I'll be trying my best to remember everything the tool claims to do and what it can access, as well as explaining how you can do these things yourself without the tool, and just how dangerous this tool really is, TL;DR it's not dangerous, the data is unencrypted on purpose, and no this is not a new exploit and is simply just CheckRa1n. I may miss some features, but blame the guy for blocking me because my memory is terrible and I would've kept referencing his page.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-29"
+        },
+        {
+          "text": "<p>This tool claims to be able to recover data from an iOS device that matches the compatibility chart for CheckRa1n, this is because the script works by using local SSH, which is an included package in all checkrain builds <b>(this is how the original iCloud bypasses worked, by just \"sudo rm -rf Setup.app\" which in terminal means, delete the setup app lol)</b> that allows an SSH client to connect using the root@localhost:4444 <b>(if you're on macOS and using iproxy, 4444 is the port)</b> , then as shown in live demonstrations on his Twitter account, you can then run the <b>.sh</b> script that will send over <b>scp</b> commands over local ssh.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-2b",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "_params": {
+            "showTitle": false,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "imageSize": 50,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "headerAlign": "left",
+          "media": {
+            "image": {
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%204.54.43%20am-751x511.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "class": "mbr-figure__img",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "title": "VIDEO EMBED",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>you can actually just plug in your iDevice into your computer and start up iproxy and try to SSH, but you'll be greeted by an error that the host has refused the connection, obviously this is where checkra1n comes into play, and is why you don't need the passcode, as SSH is started as a default process on next boot.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-2m"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": 50,
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.53.28%20am-533x394.png",
+              "link": "",
+              "alt": "what a cluck",
+              "title": ""
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "TO GET STARTED...",
+          "text": "<p>Alright, enough explanation about how this is done, we're going to go ahead and get into the technical stuff, this will require you knowing some basic terminal skills, knowing how to navigate around a filesystem in the terminal is an essential skill. Using commands such as&nbsp;<b>cd , ls , cp , mv , and cat </b>, are the building blocks to navigating in the terminal.</p><p>On our right side, you can see i've gone ahead and activated <b>checkra1n cli</b>, this is just showing the standard, anyone can use, checkra1n build. I've gone ahead and used some <b>cd </b>commands so those who aren't familiar with terminal can see how im navigating and doing everything step by step, if you know whats going on then go ahead and skip this.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-2e"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.18.52%20am-1100x373.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2f"
+        },
+        {
+          "text": "As you can see now when we try to connect, we are greeted with a request for a password, and here's how you can prevent anyone using checkra1n or any other tools that use local ssh and running local commands, <b style=\"font-style: italic;\">CHANGE YOUR ROOT PASSWORD! </b>&nbsp;why does no one do this? well simply because there hasn't been a malicious script that has caused panic in the jailbreaking community, and until that happens, I don't see many changing the default root password of iOS, it's just bash, like any other computer it has its root password, and Apple's is publically known, since the first jailbreak the default root password has not been changed from <b>alpine.</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-2h"
+        },
+        {
+          "_params": {
+            "showText": false,
+            "outside": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/screen%20shot%202020-05-27%20at%205.26.06%20am-1321x520.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image2",
+          "_anchor": "image2-2j"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "THE METHOD",
+          "meta": "Last Updated - Apr 14, 2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_styles": {
+            "P": {
+              "text-align": "center"
+            },
+            "H3": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "header3-2k"
+        },
+        {
+          "text": "<p>Okay, so you've got SSH, now what? well it's so so so very simple from here, <b>just start exploring!! </b>there's no smoke and mirrors, this is another <b>regular iOS 13.5 device, jailbroken with checkra1n, SSH access, and i'm just browsing and viewing data</b> like any other jailbroken user is<b> ALLOWED TO DO. </b>Using another window, you can just scp files over to your desktop, or in this case, the tool actually just \"decompresses/decrypts\" it to the project folder by using something like&nbsp;<b>(scp -p 4444 root@localhost:/var/cache or something along these lines, it's 5am and i'm tired of explaining this)</b>&nbsp;I can't wait to take a look at the source code, He promised he'd release it 😉 . Now I know you guys will be dissapointed to hear you cannot recover any sensitive data, but it's a neat little gimmick and it can really fool anyone who doesn't know about Terminal commands or how to communicate with iOS at a deeper level which doesn't require a GUI or an Application running in the foreground to execute commands over USB. Imagine if someone did something malicous with this? Maybe then, people will change the root password.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "DIV": {
+              "color": "#000000"
+            }
+          },
+          "_params": {},
+          "_anchor": "content1-2l"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-23"
+        }
+      ]
+    },
     "SwitchPWN.html": {
       "settings": {
         "meta_descr": "An Updated Switch Payloader for HAL-001 Switch models with support for the latest Hekate payloads and legacy payloads, as well as SX OS and other third party payloads.",
@@ -1751,7 +2309,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"blog.html\">BLOG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,

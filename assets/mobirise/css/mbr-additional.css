@@ -36,15 +36,6 @@
 #header3-25 H3 {
   text-align: center;
 }
-#msg-box5-28 .mbr-header__text {
-  color: #2e2e2e;
-}
-#msg-box5-28 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-28 .mbr-article {
-  color: #2e2e2e;
-}
 #msg-box4-22 .mbr-header__text {
   color: #000000;
 }
@@ -100,9 +91,6 @@
 }
 #header3-1v H3 {
   text-align: center;
-}
-#video2-1y I {
-  color: #000000;
 }
 #video2-i P {
   text-align: left;
@@ -231,88 +219,6 @@
   font-size: 14px;
 }
 #footer1-x P {
-  color: #ffffff;
-}
-#content5-25 .mbr-header .mbr-header__text {
-  text-align: center;
-  color: #fff;
-}
-#content5-25 .mbr-header .mbr-header__subtext {
-  text-align: center;
-  color: #fff;
-}
-#content5-25 .mbr-article {
-  color: #fff;
-}
-#dropdown-menu-22 .hide-buttons [data-button] {
-  display: none !important;
-}
-#dropdown-menu-22 .nav .link,
-#dropdown-menu-22 .dropdown-item {
-  font-size: 1em;
-  color: #ffffff;
-}
-#dropdown-menu-22 .navbar,
-#dropdown-menu-22 .dropdown-menu {
-  background: #000000;
-}
-#dropdown-menu-22 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
-#dropdown-menu-22 .dropdown-menu a:hover,
-#dropdown-menu-22 .dropdown-menu a:focus {
-  background: #000000;
-}
-#dropdown-menu-22 .navbar-toggler {
-  color: #ffffff;
-}
-#header3-26 P {
-  text-align: center;
-}
-#header3-26 H3 {
-  text-align: center;
-}
-#msg-box4-29 .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-29 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-29 .mbr-article {
-  color: #000000;
-}
-#content1-2b DIV {
-  color: #000000;
-}
-#msg-box5-2m .mbr-header__text {
-  color: #ffffff;
-}
-#msg-box5-2m .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box5-2m .mbr-article {
-  color: #000000;
-}
-#msg-box4-2e .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-2e .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-2e .mbr-article {
-  color: #000000;
-}
-#content1-2h DIV {
-  color: #000000;
-}
-#header3-2k P {
-  text-align: center;
-}
-#header3-2k H3 {
-  text-align: center;
-}
-#content1-2l DIV {
-  color: #000000;
-}
-#footer1-23 P {
   color: #ffffff;
 }
 #dropdown-menu-23 .hide-buttons [data-button] {
