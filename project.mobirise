@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RGX2",
-    "currentPage": "index.html",
+    "currentPage": "SwitchPWN.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -22,7 +22,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 82,
+    "uniqCompNum": 87,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "imageResize": true,
@@ -145,7 +145,7 @@
             "showMeta": true
           },
           "title": "UPCOMING NEWS + FEATURED LINKS",
-          "meta": "Last Updated - Jun 22, 2020",
+          "meta": "Last Updated - July 26, 2020",
           "_tags": [
             "Theme"
           ],
@@ -451,7 +451,7 @@
             "showMeta": true
           },
           "title": "LATEST VIDEOS",
-          "meta": "Last Updated - Apr 27, 2020",
+          "meta": "Last Updated - July 26, 2020",
           "_tags": [
             "Theme"
           ],
@@ -466,6 +466,32 @@
             }
           },
           "_anchor": "header3-1v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=lAZGWmVIXYs",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Relentless Flo\" - Izzo Nash - Jul 26, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2a"
         },
         {
           "_styles": {},
@@ -1067,7 +1093,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "PRIVACY | RGX",
-        "order": 4
+        "order": 3
       },
       "components": [
         {
@@ -1276,7 +1302,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "TOS | RGX",
-        "order": 5
+        "order": 4
       },
       "components": [
         {
@@ -1436,7 +1462,7 @@
       "settings": {
         "meta_descr": "",
         "title": "PHOTO | RGX",
-        "order": 3
+        "order": 2
       },
       "components": [
         {
@@ -1715,7 +1741,7 @@
     },
     "SwitchPWN.html": {
       "settings": {
-        "meta_descr": "An Updated Switch Payloader for HAL-001 Switch models with support for the latest Hekate payloads and legacy payloads, as well as SX OS and other third party payloads.",
+        "meta_descr": "Web Page Maker Description",
         "title": "SWITCH PAYLOADER | RGX",
         "order": 1
       },
@@ -1769,7 +1795,7 @@
             "Theme"
           ],
           "_name": "dropdown-menu",
-          "_anchor": "dropdown-menu-23"
+          "_anchor": "dropdown-menu-2b"
         },
         {
           "_params": {
@@ -1794,7 +1820,7 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "footer1-24"
+          "_anchor": "footer1-2c"
         },
         {
           "_inherit": "msg-box3",
@@ -1841,27 +1867,28 @@
           ],
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
-          "_anchor": "content5-25"
+          "_anchor": "content5-2d"
         },
         {
           "_params": {
             "showMeta": false
           },
           "title": "SWITCH PAYLOADER",
-          "meta": "Last Updated - Apr 14, 2020",
+          "meta": "Last Updated - Apr 27, 2020",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
           "_styles": {
             "P": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#000000"
             },
             "H3": {
               "text-align": "center"
             }
           },
-          "_anchor": "header3-26"
+          "_anchor": "header3-2e"
         }
       ]
     }
