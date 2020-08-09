@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "RGX2",
-    "currentPage": "SwitchPWN.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -25,6 +25,8 @@
     "uniqCompNum": 87,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///Users/royalgraphx/Desktop/repo/royalgraphx.github.io",
     "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -613,7 +615,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/101813836-718438105570901-5856919226640580539-n-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101813836_718438105570901_5856919226640580539_n-1280x720.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "https://www.youtube.com/watch?v=JXBm_fKMrfs",
