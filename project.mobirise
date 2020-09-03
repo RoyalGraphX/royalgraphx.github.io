@@ -22,7 +22,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 87,
+    "uniqCompNum": 96,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "publishType": "local",
@@ -147,7 +147,7 @@
             "showMeta": true
           },
           "title": "UPCOMING NEWS + FEATURED LINKS",
-          "meta": "Last Updated - July 26, 2020",
+          "meta": "Last Updated - September 2, 2020",
           "_tags": [
             "Theme"
           ],
@@ -210,7 +210,7 @@
             }
           },
           "title": "SWITCH PAYLOADER | RGX",
-          "text": "If you're apart of the Switch hacking community, you can use this subpage as an online payloader that supports Hekate 4.0.0 -&gt; 5.2.1, with added support for Android and SX OS payloads being added in the near future. This page is intended for those who know what they're doing, I won't be providing support for these kinds of things as it varies too much. This is my personal payloader that I use almost daily, and i'll be keeping it up to date.",
+          "text": "If you're apart of the Switch hacking community, you can use this subpage as an online payloader that supports Hekate 4.0.0 -&gt; 5.3.2, with added support for Android and SX OS payloads being added in the near future. This page is intended for those who know what they're doing, I won't be providing support for these kinds of things as it varies too much. This is my personal payloader that I use almost daily, and i'll be keeping it up to date.",
           "_tags": [
             "Theme"
           ],
@@ -453,7 +453,7 @@
             "showMeta": true
           },
           "title": "LATEST VIDEOS",
-          "meta": "Last Updated - July 26, 2020",
+          "meta": "Last Updated - September 2, 2020",
           "_tags": [
             "Theme"
           ],
@@ -468,6 +468,171 @@
             }
           },
           "_anchor": "header3-1v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pictureperfect-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2h"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lake-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2k"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=eLhDUevLXX0",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Mud Baby\" - EnzoBankz - Aug 15, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/cold-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2n"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/heart-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://www.youtube.com/watch?v=alXRU3djPXg",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"HEART\" - AR-15 - Aug 14, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2m"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/godstiming-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "active": true,
+              "link": "https://www.youtube.com/watch?v=c1NgVqQQKMg",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=c1NgVqQQKMg",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"In God's Timing\" - GAA Music Group - Jul 30, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2i"
         },
         {
           "_styles": {},
@@ -572,7 +737,7 @@
               "loop": false
             }
           },
-          "text": "Mortal Kombat 11 - Mini Edit, Test VIdeo - Jun 21, 2020 (Not Finished)",
+          "text": "<i>Mortal Kombat 11 - Mini Edit, Test VIdeo - Jun 21, 2020 (Not Finished)</i>",
           "_tags": [
             "Theme"
           ],

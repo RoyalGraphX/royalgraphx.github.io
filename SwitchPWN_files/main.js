@@ -144,7 +144,13 @@ document.getElementById("goButton").addEventListener("click", async () => {
   }
 
   let payload;
-  if (payloadType === "hekate520") {
+  if (payloadType === "hekate532") {
+    payload = hekate532;
+
+  } else if (payloadType === "hekate530") {
+    payload = hekate530;
+
+  } else if (payloadType === "hekate520") {
     payload = hekate520;
 
   } else if (payloadType === "hekate500") {
