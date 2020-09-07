@@ -3346,10 +3346,10 @@ fieldset[disabled] .btn-default.active {
   background-color: #ffffff;
 }
 .btn-primary {
-  border-color: #000000;
+  border-color: #425b63;
   color: #ffffff;
-  background-color: #000000;
-  border-color: #000000;
+  background-color: #4c6972;
+  border-color: #4c6972;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -5656,6 +5656,7 @@ a.thumbnail.active {
   border-style: none solid solid none;
   border-width: 0 1px 1px 0;
   bottom: -8px;
+  content: "";
   display: block;
   left: 50px;
   position: absolute;
