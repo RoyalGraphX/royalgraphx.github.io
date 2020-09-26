@@ -476,45 +476,20 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/spittin.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2p"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/compromise.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "",
+              "link": "https://youtu.be/DsN-cHOp10s",
               "alt": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "text": "<i>\"Compromise\" - Gemini- Sept 20, 2020</i>",
           "_tags": [
             "Theme"
           ],
@@ -528,20 +503,48 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/pictureperfect-1280x720.png",
+              "src": "@PROJECT_PATH@/assets/images/spittin.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "",
+              "link": "https://www.youtube.com/watch?v=RZSL1S25pWM",
               "alt": "",
-              "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "text": "<i>\"Spittin Bullets -&nbsp;DameionDaDon</i>&nbsp;<i>- Sept 18, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-2p"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/pictureperfect-1280x720.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "https://youtu.be/Br-XVEZBazg",
+              "alt": "",
+              "title": "",
+              "active": true,
+              "linkInNewWindow": false
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"PICTURE PERFECT\" - EnzoBankz - Sept 6, 2020</i>",
           "_tags": [
             "Theme"
           ],
@@ -558,17 +561,18 @@
               "src": "@PROJECT_PATH@/assets/images/lake-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "link": "",
+              "link": "https://youtu.be/lTvOHB7r4F8",
               "alt": "",
               "title": "",
-              "active": true
+              "active": true,
+              "linkInNewWindow": false
             },
             "video": {
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"COMING SOON\" - COMING SOON - COMING SOON</i>",
+          "text": "<i>\"Lake Of Hell\" - GAA Music Group - Aug 29, 2020</i>",
           "_tags": [
             "Theme"
           ],
