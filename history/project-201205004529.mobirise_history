@@ -22,9 +22,11 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 106,
+    "uniqCompNum": 102,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
@@ -474,105 +476,22 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/obg.png",
+              "src": "images/slide3.jpg",
               "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "active": true
+              "width": 1400
             },
             "video": {
+              "active": true,
               "class": "mbr-figure__img",
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"On Baby Grave\" - Fells Obamah - COMING SOON</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2x"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mobties.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.youtube.com/watch?v=J65VBuUmxq8",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "<i>\"Mob Ties\" - Q-Ball - Dec 5, 2020</i>",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
           "_anchor": "video2-2t"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/demons.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.youtube.com/watch?v=oKIBNtHb7HM",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "<i>\"DEMONS\" - ZayDoTooMuch - Dec 5, 2020</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2u"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/gabbiana.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.youtube.com/watch?v=WU5qiqDfwFQ",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "<i>\"GABIANNA\" - Fells Obamah - Dec 2, 2020</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2w"
         },
         {
           "_styles": {},
@@ -601,33 +520,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-2s"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/izzofreestyle.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.youtube.com/watch?v=JgiO81oa1YA",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "\"Freestyle\" - IzzoNash - Nov 14, 2020",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2v"
         },
         {
           "_styles": {},
@@ -1051,7 +943,7 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/101813836-718438105570901-5856919226640580539-n-1280x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/101813836_718438105570901_5856919226640580539_n-1280x720.jpg",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "https://www.youtube.com/watch?v=JXBm_fKMrfs",
@@ -1454,8 +1346,8 @@
         {
           "_params": {
             "showTitle": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "0",
+            "paddingBottom": 3,
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
