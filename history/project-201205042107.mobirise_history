@@ -22,15 +22,14 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 107,
+    "uniqCompNum": 106,
     "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "cookiesAlert": false,
-    "gdpr": false,
-    "publishChangesOnly": true
+    "gdpr": false
   },
   "pages": {
     "index.html": {
@@ -446,39 +445,6 @@
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-20\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a> ",
           "_name": "msg-box4",
           "_anchor": "msg-box4-20"
-        },
-        {
-          "_params": {
-            "account": "alanzm_",
-            "showTitle": true,
-            "layoutGridRadio": true,
-            "imagesPerRowGrid": "4",
-            "rows": "1",
-            "showMoreButton": true,
-            "layoutSliderRadio": false,
-            "imagesPerRowSlider": "5",
-            "spacing": "21",
-            "fullWidth": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
-            "overlay": true,
-            "overlayColor": "#efefef",
-            "overlayOpacity": 0.6
-          },
-          "title": "Instagram Feed",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-md btn-primary\" href=\"#\">Show more</a>",
-          "display2": "display-2",
-          "display4": "display-4",
-          "alias": "instagram-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "instagram-feed-block",
-          "_anchor": "instagram-feed-block-2y"
         },
         {
           "_params": {
