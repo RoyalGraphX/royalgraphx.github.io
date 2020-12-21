@@ -22,15 +22,17 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 111,
-    "versionPublish": "5.2.0",
+    "uniqCompNum": 107,
+    "versionPublish": "5.0.29",
     "screenshot": "screenshot.png",
     "imageResize": false,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -482,54 +484,10 @@
         },
         {
           "_params": {
-            "showMeta": false
-          },
-          "title": "FEATURED VIDEO",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-32",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/litolow.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "linkInNewWindow": false,
-              "link": "https://www.youtube.com/watch?v=VI_0NvT60-E",
-              "alt": "",
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "\"LOW\" - Lito Garcia - Nov 29, 2020",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-31"
-        },
-        {
-          "_params": {
             "showMeta": true
           },
           "title": "LATEST VIDEOS",
-          "meta": "YOU CAN WATCH ANY VIDEO BY CLICKING ITS THUMBNAIL",
+          "meta": "Last Updated - December 5, 2020",
           "_tags": [
             "Theme"
           ],
@@ -552,76 +510,19 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/partyup.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "active": true,
-              "linkInNewWindow": false,
-              "link": "https://www.youtube.com/watch?v=fJHmH4nao3k",
-              "alt": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=fJHmH4nao3k",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "<i>\"Party Mood\" - OTM Mexico - Dec 18, 2020</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-30"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/UvdvnV1X5Uk",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "<i>\"P's for Sale\" -&nbsp;DameionDaDon&nbsp;-  Dec 11, 2020</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2z"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/obg.png",
               "class": "mbr-figure__img",
               "width": 1400,
               "link": "",
-              "alt": ""
+              "alt": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://youtu.be/g723iwNBG1A",
-              "autoplay": false,
-              "loop": false,
-              "active": true
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"On Baby Grave\" - Fells Obamah -&nbsp; Dec 11, 2020</i>",
+          "text": "<i>\"On Baby Grave\" - Fells Obamah - COMING SOON</i>",
           "_tags": [
             "Theme"
           ],
