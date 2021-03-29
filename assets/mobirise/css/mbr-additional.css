@@ -29,63 +29,10 @@
 #content5-2 .mbr-article {
   color: #fff;
 }
-#header3-25 P {
-  text-align: center;
-  color: #000000;
-}
-#header3-25 H3 {
+#header3-3h H3 {
   text-align: center;
 }
-#msg-box4-22 .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-22 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-22 .mbr-article {
-  color: #000000;
-}
-#msg-box4-22 .mbr-article P {
-  text-align: left;
-}
-#msg-box4-22 .mbr-header__text {
-  color: #000000;
-  text-align: left;
-}
-#msg-box4-22 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-22 .mbr-article {
-  color: #000000;
-}
-#msg-box4-22 .mbr-article P {
-  text-align: left;
-}
-#msg-box4-22 .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-22 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-22 .mbr-article {
-  color: #000000;
-}
-#msg-box4-22 .mbr-article P {
-  text-align: left;
-}
-#msg-box4-20 .mbr-header__text {
-  color: #000000;
-}
-#msg-box4-20 .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-20 .mbr-article {
-  color: #000000;
-}
-#msg-box4-20 .mbr-article P {
-  text-align: left;
-}
-#header3-32 H3 {
+#header3-3h P {
   text-align: center;
 }
 #header3-1v P {
@@ -263,5 +210,42 @@
   color: #000000;
 }
 #header3-2e H3 {
+  text-align: center;
+}
+#dropdown-menu-3n .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-3n .nav .link,
+#dropdown-menu-3n .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-3n .navbar,
+#dropdown-menu-3n .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-3n .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-3n .dropdown-menu a:hover,
+#dropdown-menu-3n .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-3n .navbar-toggler {
+  color: #ffffff;
+}
+#footer1-3o P {
+  color: #ffffff;
+}
+#content5-3r .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+}
+#content5-3r .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-3r .mbr-article {
+  color: #fff;
+}
+#header3-3s H3 {
   text-align: center;
 }

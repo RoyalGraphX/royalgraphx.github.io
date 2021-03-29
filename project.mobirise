@@ -22,7 +22,7 @@
     "favicon": "@PROJECT_PATH@/assets/images/logo-kopf-alt-128x124.png",
     "noImageResize": "",
     "google-analytics": "<script data-ad-client=\"ca-pub-7387272214090191\" async src=\"https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js\"></script><!-- Global site tag (gtag.js) - Google Analytics -->\r\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-145448421-1\"></script>\r\n<script>\r\n  window.dataLayer = window.dataLayer || [];\r\n  function gtag(){dataLayer.push(arguments);}\r\n  gtag('js', new Date());\r\n\r\n  gtag('config', 'UA-145448421-1');\r\n</script>",
-    "uniqCompNum": 111,
+    "uniqCompNum": 137,
     "versionPublish": "5.2.0",
     "screenshot": "screenshot.png",
     "imageResize": false,
@@ -30,7 +30,9 @@
     "sitemapSwitcher": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": true,
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -74,7 +76,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -143,309 +145,23 @@
         },
         {
           "_params": {
-            "showMeta": true
+            "showMeta": false
           },
-          "title": "UPCOMING NEWS + FEATURED LINKS",
-          "meta": "Last Updated - September 6, 2020",
+          "title": "DROPPING SOON | NO ETA",
+          "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Theme"
           ],
           "_name": "header3",
+          "_anchor": "header3-3h",
           "_styles": {
-            "P": {
-              "text-align": "center",
-              "color": "#000000"
-            },
             "H3": {
               "text-align": "center"
+            },
+            "P": {
+              "text-align": "center"
             }
-          },
-          "_anchor": "header3-25"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/rgxswitch-1400x1120.png",
-              "link": "",
-              "alt": "SWITCH | RGX",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "SWITCH PAYLOADER | RGX",
-          "text": "If you're apart of the Switch hacking community, you can use this subpage as an online payloader that supports Hekate 4.0.0 -&gt; 5.3.2, with added support for Android and SX OS payloads being added in the near future. This page is intended for those who know what they're doing, I won't be providing support for these kinds of things as it varies too much. This is my personal payloader that I use almost daily, and i'll be keeping it up to date.",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"SwitchPWN.html\" data-toolbar=\"-mbrBtnMove\">OPEN PAYLOADER</a> ",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-22"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/royalrepo-1400x1120.png",
-              "link": "",
-              "alt": "RoyalRepo",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ROYALREPO | CYDIA",
-          "text": "If you're a jailbroken user, you are able to use the RoyalRepo! This is where I host my iOS 12-13.5 tweaks for the community, I host my own tweaks such as 3DBundleID, 13BundleID, CloudGo+, LightTube, JuulPods, a custom animation for use with AirPort, and a bunch of themes and respring logos and a version of Spotilife for free premium in spotify, more content to come!",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000",
-              "text-align": "left"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://royalgraphx.live/royalrepo\" data-toolbar=\"-mbrBtnMove\">ADD TO CYDIA</a> ",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-22"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/royalradioteaser3-4-1400x975.png",
-              "link": "",
-              "alt": "RR",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ROYALRADIO | EPISODE 1",
-          "text": "The Basement podcast has been completely redone! as the new RoyalRadio, it will be a weekly, 1 Hour episode available on Apple Podcasts and Google Podcasts. It will include music curated by you! You can click the button below to submit your songs to the RoyalRadio Weekly Rotation. You can submit your favorite songs to expose your favorite artists to other listeners! If you are an artist you can also submit you own music and promote youself! Click the button below and influence the wave!",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"https://forms.gle/RMJ4H4MyYMS47QuU8\" data-toolbar=\"-mbrBtnMove\">SUBMIT MUSIC REQUEST</a> ",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-22"
-        },
-        {
-          "_inherit": "msg-box5",
-          "_params": {
-            "showTitle": true,
-            "showMeta": false,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "imageSize": "34",
-            "paddingTop": "1",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/royalmagteaser-1-1400x975.png",
-              "link": "",
-              "alt": "RM | RGX",
-              "title": ""
-            },
-            "video": {
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title": "ROYALMAG | ISSUE #1",
-          "text": "Issue #1 of the teased RoyalMag will be exclusively released and maintained here on this website. This will be the official way to view and read the magazine until physical copies are processed and released due to Covid-19 setbacks on deadlines. The magazine will be a 12 page, Bi-weekly issue style release, including a new QR code method to view and unlock special unreleased content from your favorite Chicago artists! Who's Up Next?",
-          "_tags": [
-            "Theme"
-          ],
-          "_styles": {
-            ".mbr-header__text": {
-              "color": "#000000"
-            },
-            ".mbr-header__subtext": {
-              "color": "#ffffff"
-            },
-            ".mbr-article": {
-              "color": "#000000"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "headerAlign": "left",
-          "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" href=\"index.html#msg-box4-20\" data-toolbar=\"-mbrBtnMove\">COMING SOON</a> ",
-          "_name": "msg-box4",
-          "_anchor": "msg-box4-20"
+          }
         },
         {
           "_params": {
@@ -481,35 +197,18 @@
           "_anchor": "instagram-feed-block-2y"
         },
         {
-          "_params": {
-            "showMeta": false
-          },
-          "title": "FEATURED VIDEO",
-          "meta": "By John Smith posted July 30, 2015",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-32",
-          "_styles": {
-            "H3": {
-              "text-align": "center"
-            }
-          }
-        },
-        {
           "_styles": {},
           "_params": {
-            "showText": true
+            "showText": false
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/litolow.png",
+              "src": "@PROJECT_PATH@/assets/images/upagrand.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "linkInNewWindow": false,
-              "link": "https://www.youtube.com/watch?v=VI_0NvT60-E",
+              "link": "",
               "alt": "",
+              "linkInNewWindow": false,
               "active": true
             },
             "video": {
@@ -517,12 +216,93 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "\"LOW\" - Lito Garcia - Nov 29, 2020",
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-31"
+          "_anchor": "video2-3j"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/demontime.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3k"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/realme.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3l"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/wakeup.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "Create awesome mobile-friendly websites. No coding and free.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3m"
         },
         {
           "_params": {
@@ -544,6 +324,270 @@
             }
           },
           "_anchor": "header3-1v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=dEUFlpHOpkw",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Gotta Win\" - Izzo Nash - March 27, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3f"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=IVMz-QFTEfo",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Heal Me\" - GGM Josh - March 19, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3e"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=-BQXn_I7Kds",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"RAMBO\" - ZayDoTooMuch - Mar 11, 2021\n</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3a"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/token.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "linkInNewWindow": false,
+              "link": "https://www.youtube.com/watch?v=haAt3ZJBfoo",
+              "alt": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
+            }
+          },
+          "text": "<i>\"Token\" - Enzo Bankz ft. Izzo Nash - Feb 26, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3c"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=nd-AJ4eYruk",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Bandz Up\" - PayDro North - Jan 27, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-38"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/ps.png",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "active": true,
+              "linkInNewWindow": false,
+              "link": "https://www.youtube.com/watch?v=IHUu3qh4klc",
+              "alt": ""
+            },
+            "video": {
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=IHUu3qh4klc",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"P's\" - OTM Mexico - Jan 18, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-37"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=DE2hxfMYXcQ",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Let's Get It 2x\" -&nbsp;LB_Quanni - Jan 15, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3g"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=08kdpgFGE3k",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"The One\" - Glo - Jan 3, 2021</i><br>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-34"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=HITYdJxFIqA",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Walkin' Flee\" - OTM Mexico -&nbsp;Jan 2, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-35"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=_kxxcFH-Bfk",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Who Are You\" - Brodie - Jan 1, 2021</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-36"
         },
         {
           "_styles": {},
@@ -716,26 +760,25 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/2spookynight.png",
+              "src": "@PROJECT_PATH@/assets/images/litolow.png",
               "class": "mbr-figure__img",
               "width": 1400,
-              "active": true,
-              "link": "https://www.youtube.com/watch?v=y2DKcOJSGRM",
-              "alt": ""
+              "linkInNewWindow": false,
+              "link": "https://www.youtube.com/watch?v=VI_0NvT60-E",
+              "alt": "",
+              "active": true
             },
             "video": {
               "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=y2DKcOJSGRM",
-              "autoplay": false,
-              "loop": false
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "<i>\"Issa Spooky Night\" - FKRSN - Nov 20, 2020</i>",
+          "text": "<i>\"LOW\" - Lito Garcia - Nov 29, 2020</i>",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
-          "_anchor": "video2-2s"
+          "_anchor": "video2-31"
         },
         {
           "_styles": {},
@@ -757,12 +800,38 @@
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
             }
           },
-          "text": "\"Freestyle\" - IzzoNash - Nov 14, 2020",
+          "text": "<i>\"Freestyle\" - IzzoNash - Nov 14, 2020</i>",
           "_tags": [
             "Theme"
           ],
           "_name": "video2",
           "_anchor": "video2-2v"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": true
+          },
+          "media": {
+            "image": {
+              "src": "images/slide3.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=2LBdZ7UoIv4",
+              "autoplay": false,
+              "loop": false
+            }
+          },
+          "text": "<i>\"Overnight\" - Kelly Bee - Nov 11, 2020</i>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-3b"
         },
         {
           "_styles": {},
@@ -844,33 +913,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-2p"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/ionbang.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "https://www.youtube.com/watch?v=FV5G4KY1m64",
-              "alt": "",
-              "linkInNewWindow": false,
-              "active": true
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            }
-          },
-          "text": "<i>\"ION BANG\" - GONE - Sept 17, 2020</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-2q"
         },
         {
           "_styles": {},
@@ -1131,32 +1173,6 @@
           },
           "media": {
             "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=94ujpK2ucGY",
-              "autoplay": false,
-              "loop": false
-            }
-          },
-          "text": "<i>Mortal Kombat 11 - Mini Edit, Test VIdeo - Jun 21, 2020 (Not Finished)</i>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-29"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
               "src": "@PROJECT_PATH@/assets/images/deal%20thumbail-1280x720.png",
               "class": "mbr-figure__img",
               "width": 1400,
@@ -1245,35 +1261,6 @@
           },
           "media": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kayystackz-1280x720.png",
-              "class": "mbr-figure__img",
-              "width": 1400,
-              "link": "",
-              "alt": "",
-              "title": ""
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "https://youtu.be/VWLi5H-9f_c",
-              "autoplay": false,
-              "loop": "on",
-              "active": true
-            }
-          },
-          "text": "<i>\"Kayy Stackz - Wish Death Upon Me (Official Video)\" - RoyalGraphX - Apr 29, 2020</i><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-1x"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
               "src": "images/slide3.jpg",
               "class": "mbr-figure__img",
               "width": 1400
@@ -1321,32 +1308,6 @@
           ],
           "_name": "video2",
           "_anchor": "video2-1g"
-        },
-        {
-          "_styles": {},
-          "_params": {
-            "showText": true
-          },
-          "media": {
-            "image": {
-              "src": "images/slide3.jpg",
-              "class": "mbr-figure__img",
-              "width": 1400
-            },
-            "video": {
-              "active": true,
-              "class": "mbr-figure__img",
-              "src": "https://www.youtube.com/watch?v=uxL9yWXkx3s",
-              "autoplay": false,
-              "loop": "on"
-            }
-          },
-          "text": "<i>\"FINTAS\" - RoyalGraphX - Jan 16, 2020</i><br>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "video2",
-          "_anchor": "video2-8"
         },
         {
           "_styles": {},
@@ -1588,55 +1549,6 @@
         },
         {
           "_params": {
-            "showTitle": true,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#ffffff",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "CONTACT FORM",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT ME</a>",
-          "form": {
-            "action": "minecraftia2013@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": false,
-                "title": "Phone",
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "form1",
-          "_anchor": "form1-j"
-        },
-        {
-          "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -1666,7 +1578,7 @@
       "settings": {
         "meta_descr": "Web Site Builder Description",
         "title": "PRIVACY | RGX",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1767,7 +1679,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1875,7 +1787,7 @@
       "settings": {
         "meta_descr": "Website Builder Description",
         "title": "TOS | RGX",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1909,7 +1821,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2035,7 +1947,7 @@
       "settings": {
         "meta_descr": "",
         "title": "PHOTO | RGX",
-        "order": 2
+        "order": 3
       },
       "components": [
         {
@@ -2069,7 +1981,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2316,7 +2228,7 @@
       "settings": {
         "meta_descr": "Web Page Maker Description",
         "title": "SWITCH PAYLOADER | RGX",
-        "order": 1
+        "order": 2
       },
       "components": [
         {
@@ -2350,7 +2262,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">HOME</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SERVICES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"page3.html\">Photoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-1v\">Videoshoots</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://royalgraphx.live/royalrepo\">RoyalRepo</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-j\" aria-expanded=\"false\">CONTACT</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -2462,6 +2374,155 @@
             }
           },
           "_anchor": "header3-2e"
+        }
+      ]
+    },
+    "baby.html": {
+      "settings": {
+        "meta_descr": "",
+        "title": "BABY | RGX",
+        "order": 1
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons [data-button]": {
+              "display": "none !important"
+            },
+            ".navbar-brand a": {},
+            ".nav .link, .dropdown-item": {
+              "font-size": "1em",
+              "color": "#ffffff"
+            },
+            ".navbar, .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".dropdown-menu .dropdown-toggle[aria-expanded=\"true\"], .dropdown-menu a:hover, .dropdown-menu a:focus": {
+              "background": "#000000"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            }
+          },
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "transparent": true,
+            "bgColor": "#000000",
+            "fontSize": 1,
+            "fontName": {},
+            "fontColor": "#ffffff"
+          },
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link text-primary\" href=\"index.html#top\">WEBSITE | RGX</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-kopf-alt-132x128.png",
+              "class": "",
+              "height": 128,
+              "alt": "RGX",
+              "link": "http://royalgraphx.live/",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "brand": "<a class=\"text-white\" data-app-selector=\".navbar-brand a\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">RGX</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "dropdown-menu",
+          "_anchor": "dropdown-menu-3n"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2020 RoyalGraphX. <a href=\"tos.html\" class=\"text-gray\">Terms of Use</a>  | <a href=\"privacy_policy.html\" class=\"text-gray\">Privacy Policy</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-3o"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": false,
+            "showButton": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": 0.2
+          },
+          "title": "",
+          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-3r"
+        },
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "Super Crazy Guitar Maniac Deluxe",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-3s",
+          "_styles": {
+            "H3": {
+              "text-align": "center"
+            }
+          }
         }
       ]
     }
